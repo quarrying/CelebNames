@@ -1,0 +1,21 @@
+Richard Matthew Stallman
+David Patterson
+Donald Ervin Knuth
+Bjarne Stroustrup
+Linus Torvalds
+Dennis Ritchie
+Brian Kernighan
+James Gosling
+Guido van Rossum
+Anders Hejlsberg
+Rasmus Lerdorf
+Tim Berners-Lee
+Aaron Hillel Swartz, Markdown
+Brendan Eich, JavaScript
+Douglas Crockford
+Shwetak Patel, ACM
+Cherri M. Pancake, ACM
+Sepp Hochreiter
+Jürgen Schmidhuber
+Peter Norvig
+
