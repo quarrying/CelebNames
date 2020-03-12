@@ -1,5 +1,5 @@
 # CelebNames
-Celebrity Names For Image Crawler
+Celebrity Names for Crawler
 
 ## Celebrity Category
 - businessman
