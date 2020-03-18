@@ -1,8 +1,4 @@
 #coding=utf-8
-"""
-20171108
-20190212 迁移到 Python 3
-"""
 import os
 import re
 import json
@@ -11,6 +7,7 @@ import urllib
 import requests
 import urllib.request
 
+
 headers = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate, sdch',
@@ -18,6 +15,7 @@ headers = {
     'Connection': 'keep-alive',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.235'
 }
+
 
 def get_image_urls(keyword, num_pages):
     """
@@ -45,6 +43,7 @@ def get_image_urls(keyword, num_pages):
         pass
     return url_list
 
+    
 def download_images(keyword, num_pages, dst_dir):
     if not os.path.isdir(dst_dir):
         os.makedirs(dst_dir)
@@ -66,6 +65,7 @@ def download_images(keyword, num_pages, dst_dir):
             except:
                 pass
             
+            
 def parse_list_file(filename, prefix='', offset=0, max_num=0):
     lines = []
     with open(filename, 'r') as f:
@@ -77,6 +77,7 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
             lines.append(prefix + line.rstrip())
     return lines
 
+    
 if __name__ == '__main__':
     keywords = parse_list_file('tbd_names.txt')
     keywords = [item.split(',')[0] for item in keywords]
