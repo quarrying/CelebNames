@@ -1,4 +1,7 @@
 #coding=utf-8
+"""
+20200318
+"""
 import os
 import glob
 
@@ -39,7 +42,7 @@ def get_record_number(records):
 if __name__ == '__main__':
     src_dir = r'F:\_Datasets_self\CelebNames\names'
     tags = ['businessman_chinese', 'businessman_japan_korea', 'businessman_others', 
-            'liberal_arts_chinese',
+            'liberal_arts_chinese', 'liberal_arts_japan_korea',
             'politican_chinese', 'politican_japan_korea_vn_sg', 'politican_others',
             'scientist_chinese', 'scientist_others',
             'star_chinese', 'star_japan_korea', 'star_others']
