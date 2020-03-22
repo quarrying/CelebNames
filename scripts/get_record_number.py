@@ -1,7 +1,4 @@
 #coding=utf-8
-"""
-20200318
-"""
 import os
 import glob
 
