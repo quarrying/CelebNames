@@ -1,21 +1,28 @@
-Richard Matthew Stallman
+Richard Matthew Stallman, Emacs
 David Patterson
 Donald Ervin Knuth
-Bjarne Stroustrup
-Linus Torvalds
+Bjarne Stroustrup, C++之父
+Linus Torvalds, Linux之父
 Dennis Ritchie
 Brian Kernighan
 James Gosling
-Guido van Rossum
+Guido van Rossum, Python之父
 Anders Hejlsberg
-Rasmus Lerdorf
+Rasmus Lerdorf, PHP之父
 Tim Berners-Lee
 Aaron Hillel Swartz, Markdown
-Brendan Eich, JavaScript
-Douglas Crockford
+Brendan Eich, JavaScript之父
+Douglas Crockford, JSON之父
 Shwetak Patel, ACM
 Cherri M. Pancake, ACM
 Sepp Hochreiter
 Jürgen Schmidhuber
 Peter Norvig
-
+Bram Moolenaar, Vim之父
+Herb Sutter, Exceptional C++作者
+Marc Andreessen, Mosaic浏览器
+Ryan Dahl, node.js之父
+Scott Meyers
+Stephen Wolfram, Mathematica首席设计师
+Fabrice Bellard, FFmpeg作者
+John Carmack, Quake作者
