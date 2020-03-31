@@ -26,3 +26,4 @@ Scott Meyers
 Stephen Wolfram, Mathematica首席设计师
 Fabrice Bellard, FFmpeg作者
 John Carmack, Quake作者
+Vint Cerf, 因特网先驱
