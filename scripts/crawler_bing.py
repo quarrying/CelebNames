@@ -30,7 +30,6 @@ def get_image_urls(keyword, first):
         link = item.attrs['src']
         # NB: 
         url_list.append(link.split('&')[0])
-
     return url_list
 
     
@@ -70,11 +69,15 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
 
     
 if __name__ == '__main__':
-    keywords = parse_list_file('tbd_names.txt')
+    list_filename = 'tbd_names.txt'
+    dst_dir = 'images_bing'
+    num_images = 200
+
+    keywords = parse_list_file(list_filename)
     keywords = [item.split(',')[0] for item in keywords]
-    dst_dirs = [os.path.join('images_bing', item) for item in keywords]
+    dst_dirs = [os.path.join(dst_dir, item) for item in keywords]
     for k, (keyword, dst_dir) in enumerate(zip(keywords, dst_dirs)):
         print('[{}/{}] {}'.format(k+1, len(keywords), keyword))
-        download_images(keyword, 200, dst_dir)
+        download_images(keyword, num_images, dst_dir)
         
         

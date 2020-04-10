@@ -79,11 +79,15 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
 
     
 if __name__ == '__main__':
-    keywords = parse_list_file('tbd_names.txt')
+    list_filename = 'tbd_names.txt'
+    dst_dir = 'images_baidu'
+    num_images = 200
+
+    keywords = parse_list_file(list_filename)
     keywords = [item.split(',')[0] for item in keywords]
-    dst_dirs = [os.path.join('images_baidu', item) for item in keywords]
+    dst_dirs = [os.path.join(dst_dir, item) for item in keywords]
     for k, (keyword, dst_dir) in enumerate(zip(keywords, dst_dirs)):
         print('[{}/{}] {}'.format(k+1, len(keywords), keyword))
-        download_images(keyword, 200, dst_dir)
+        download_images(keyword, num_images, dst_dir)
         
         

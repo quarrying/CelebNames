@@ -1,5 +1,6 @@
 #coding=utf-8
 import os
+import glob
 from collections import OrderedDict
 
 
@@ -77,12 +78,13 @@ def sort_class_dict(class_dict, reverse=False):
 
 
 if __name__ == '__main__':
-    root_dir = r'F:\_Datasets_self\CelebNames\names'
-    for char in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-        filename = os.path.join(root_dir, 'star_chinese_{}.txt'.format(char))
-        print(filename)
-        if not os.path.exists(filename):
-            continue
+    parent_dirname = os.path.dirname(os.path.dirname(__file__))
+    src_dir = os.path.join(parent_dirname, 'names')
+
+    filenames = glob.glob(os.path.join(src_dir, 'star_chinese_*.txt'))
+    for k, filename in enumerate(filenames):
+        print('[{}/{}] {}'.format(k+1, len(filenames), filename))
+ 
         records = parse_list_file(filename)
         class_dict = create_class_dict_by_name(records, get_id_func)
         class_dict = keep_one_record(class_dict)

@@ -17,7 +17,7 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
 
 def get_all_records(filenames):
     records = []
-    for k, filename in enumerate(filenames):
+    for _, filename in enumerate(filenames):
         if os.path.exists(filename):
             records += parse_list_file(filename)
     return records
@@ -52,7 +52,9 @@ def get_record_number_with_desc(records):
 
 
 if __name__ == '__main__':
-    src_dir = r'F:\_Datasets_self\CelebNames\names'
+    parent_dirname = os.path.dirname(os.path.dirname(__file__))
+    src_dir = os.path.join(parent_dirname, 'names')
+
     tags = ['businessman_chinese', 'businessman_japan_korea', 'businessman_others', 
             'liberal_arts_chinese', 'liberal_arts_japan_korea',
             'politican_chinese', 'politican_japan_korea_vn_sg', 'politican_others',
