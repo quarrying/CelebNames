@@ -1,4 +1,4 @@
-# CelebNames
+# [CelebNames](https://github.com/quarrying/CelebNames)
 Celebrity Names for Crawler
 
 ## Celebrity Category
