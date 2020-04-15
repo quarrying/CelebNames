@@ -57,7 +57,7 @@ def download_images(keyword, num_pages, dst_dir):
             time.sleep(1)
             counter += 1
             print('[{}] {}'.format(counter, url))
-            fullname = os.path.join(dst_dir, '{}_{:05}.jpg'.format(keyword, counter))
+            fullname = os.path.join(dst_dir, 'baidu_{}_{:05}.jpg'.format(keyword, counter))
             try:
                 r = requests.get(url, timeout=30)
                 with open(fullname, "wb") as f:
@@ -79,8 +79,8 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
 
     
 if __name__ == '__main__':
-    list_filename = 'tbd_names.txt'
-    dst_dir = 'images_baidu'
+    list_filename = 'NAMES.txt'
+    dst_dir = 'images'
     num_images = 200
 
     keywords = parse_list_file(list_filename)

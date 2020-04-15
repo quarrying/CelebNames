@@ -69,8 +69,8 @@ def parse_list_file(filename, prefix='', offset=0, max_num=0):
 
     
 if __name__ == '__main__':
-    list_filename = 'tbd_names.txt'
-    dst_dir = 'images_bing'
+    list_filename = 'NAMES.txt'
+    dst_dir = 'images'
     num_images = 200
 
     keywords = parse_list_file(list_filename)
