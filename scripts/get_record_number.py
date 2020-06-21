@@ -52,7 +52,7 @@ def get_record_number_with_desc(records):
 
 
 if __name__ == '__main__':
-    parent_dirname = os.path.dirname(os.path.dirname(__file__))
+    parent_dirname = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     src_dir = os.path.join(parent_dirname, 'names')
 
     tags = ['businessman_chinese', 'businessman_japan_korea', 'businessman_others', 
