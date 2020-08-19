@@ -1,8 +1,3 @@
-## 日本韩国
-望月新一, 数学家
-
-
-## 其他
 Richard Matthew Stallman, Emacs
 David Patterson
 Donald Ervin Knuth
