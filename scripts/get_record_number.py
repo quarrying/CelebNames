@@ -1,6 +1,7 @@
 #coding=utf-8
 import os
 import glob
+from collections import OrderedDict
 
 
 def parse_list_file(filename, prefix='', offset=0, max_num=0):
@@ -55,17 +56,28 @@ if __name__ == '__main__':
     parent_dirname = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     src_dir = os.path.join(parent_dirname, 'names')
 
-    tags = ['businessman_chinese', 'businessman_japan_korea', 'businessman_others', 
-            'liberal_arts_chinese', 'liberal_arts_japan_korea',
-            'politican_chinese', 'politican_japan_korea_vn_sg', 'politican_others',
-            'scientist_chinese', 'scientist_others',
-            'star_chinese', 'star_japan_korea', 'star_others']
+    tags_dict = OrderedDict()
+    tags_dict['chinese'] = ['businessman_chinese',  
+                            'liberal_arts_chinese',
+                            'politican_chinese', 
+                            'scientist_chinese',
+                            'star_chinese']
+    tags_dict['east-asian'] = ['businessman_japan_korea',  
+                               'liberal_arts_japan_korea',
+                               'politican_japan_korea_vn_sg', 
+                               'scientist_japan_korea',
+                               'star_japan_korea']
+    tags_dict['others'] = ['businessman_others',  
+                           'politican_others',
+                           'scientist_others',
+                           'star_others']
     all_records = []
-    for tag in tags:
-        filenames = glob.glob(os.path.join(src_dir, '{}*.txt'.format(tag)))
-        records = get_all_records(filenames)
-        print('{:<30}: {}'.format(tag, get_record_number(records)))
-        all_records += records
+    for subdir, tags in tags_dict.items():
+        for tag in tags:
+            filenames = glob.glob(os.path.join(src_dir, subdir, '{}*.txt'.format(tag)))
+            records = get_all_records(filenames)
+            print('{:<30}: {}'.format(tag, get_record_number(records)))
+            all_records += records
     print('{:<30}: {}'.format('total', get_record_number(all_records)))
     print('{:<30}: {}'.format('total with desc', get_record_number_with_desc(all_records)))
     

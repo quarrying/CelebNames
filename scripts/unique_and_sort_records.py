@@ -79,7 +79,7 @@ def sort_class_dict(class_dict, reverse=False):
 
 if __name__ == '__main__':
     parent_dirname = os.path.dirname(os.path.dirname(__file__))
-    src_dir = os.path.join(parent_dirname, 'names')
+    src_dir = os.path.join(parent_dirname, 'names/chinese')
 
     filenames = glob.glob(os.path.join(src_dir, 'star_chinese_*.txt'))
     for k, filename in enumerate(filenames):
