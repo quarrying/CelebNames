@@ -3,11 +3,11 @@ David Patterson
 Donald Ervin Knuth
 Bjarne Stroustrup, C++之父
 Linus Torvalds, Linux之父
-Dennis Ritchie
+Dennis Ritchie, C语言之父
 Brian Kernighan
-James Gosling
+James Gosling, Java语言之父
 Guido van Rossum, Python之父
-Anders Hejlsberg
+Anders Hejlsberg, C#语言之父
 Rasmus Lerdorf, PHP之父
 Tim Berners-Lee
 Aaron Hillel Swartz, Markdown
@@ -27,3 +27,4 @@ Stephen Wolfram, Mathematica首席设计师
 Fabrice Bellard, FFmpeg作者
 John Carmack, Quake作者
 Vint Cerf, 因特网先驱
+Rob Pike, Go语言之父
