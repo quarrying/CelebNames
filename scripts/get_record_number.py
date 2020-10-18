@@ -27,10 +27,12 @@ def get_all_records(filenames):
 def get_record_number(records):
     number = 0
     for record in records:
-        record = record.strip()
+        # record = record.strip()
         if record == '':
             pass
         elif record.startswith('#'):
+            pass
+        elif record.startswith(' '):
             pass
         else:
             number += 1
