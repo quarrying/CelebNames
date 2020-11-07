@@ -1,5 +1,5 @@
 呼斯楞, "鸿雁"演唱者
-    https://baike.baidu.com/item/呼斯楞 
+    https://baike.baidu.com/item/呼斯楞/10609267  
 黑龙_歌手, "回心转意"演唱者
     https://baike.baidu.com/item/黑龙/37589 
 黑嘉嘉, 围棋运动员
@@ -7,8 +7,9 @@
 哈文, 导演
     https://baike.baidu.com/item/哈文/3241794 
 何中华, "香蜜沉沉烬如霜"中饰演"天帝太微"
-何云伟, 相声
+    https://baike.baidu.com/item/何中华/28265 
 何亮亮, 主持人
+    https://baike.baidu.com/item/何亮亮/40823 
 何佳怡
 何傲儿
 何冰, "大宋提刑官"中饰演"宋慈"
@@ -126,6 +127,8 @@
     https://baike.baidu.com/item/胡悦鑫 
 胡慧中, 功夫女星
     https://baike.baidu.com/item/胡慧中 
+胡先煦
+    https://baike.baidu.com/item/胡先煦/806339 
 胡杏儿
 胡杨林
 胡桑
