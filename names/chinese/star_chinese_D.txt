@@ -61,7 +61,7 @@
 多亮, "中国好声音"
     https://baike.baidu.com/item/多亮/10530086 
 大张伟, "嘻唰唰"演唱者
-    https://baike.baidu.com/item/大张伟 
+    https://baike.baidu.com/item/大张伟/405253
 戴佩妮, "怎样"演唱者
     https://baike.baidu.com/item/戴佩妮 
 戴佳佳
@@ -165,9 +165,9 @@
 董嘉耀, 主持人
     https://baike.baidu.com/item/董嘉耀 
 董子健, 电影"少年班"中饰演"吴未"
-    https://baike.baidu.com/item/董子健 
+    https://baike.baidu.com/item/董子健/1929519
 董成鹏, "屌丝男士"中饰演"大鹏"
-    https://baike.baidu.com/item/董成鹏 
+    https://baike.baidu.com/item/董成鹏/5700623
 董文华, "十五的月亮"演唱者
     https://baike.baidu.com/item/董文华/15665 
 董晴
@@ -193,7 +193,7 @@
 董可飞, "庆余年"中饰演"林大宝"
     https://baike.baidu.com/item/董可飞/8133589 
 迪丽热巴, "三生三世十里桃花"中饰演"白凤九"
-    https://baike.baidu.com/item/迪丽热巴 
+    https://baike.baidu.com/item/迪丽热巴/1180418
 迪克牛仔, "有多少爱可以重来"演唱者
     https://baike.baidu.com/item/迪克牛仔 
 邓丽君, "何日君再来"演唱者
@@ -203,7 +203,7 @@
 邓亚萍, 乒乓球运动员
     https://baike.baidu.com/item/邓亚萍 
 邓伦, "香蜜沉沉烬如霜"中饰演"旭凤"
-    https://baike.baidu.com/item/邓伦 
+    https://baike.baidu.com/item/邓伦/10133303
 邓婕, "红楼梦"中饰演"王熙凤"
     https://baike.baidu.com/item/邓婕/29708 
 邓靖弘

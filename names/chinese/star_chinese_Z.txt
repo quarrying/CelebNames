@@ -9,7 +9,7 @@
 卓亚君, "Lolita"演唱者
     https://baike.baidu.com/item/卓亚君 
 周一围, "九州·海上牧云记"中饰演"硕风和叶"
-    https://baike.baidu.com/item/周一围 
+    https://baike.baidu.com/item/周一围/475066 
 周丽淇, "卫子夫"中饰演"平阳公主"
     https://baike.baidu.com/item/周丽淇 
 周传雄, "寂寞沙洲冷"演唱者
@@ -19,7 +19,7 @@
 周兴哲
     https://baike.baidu.com/item/周兴哲 
 周冬雨, 电影"山楂树之恋"女主角
-    https://baike.baidu.com/item/周冬雨 
+    https://baike.baidu.com/item/周冬雨/5051740
 周冬齐
     https://baike.baidu.com/item/周冬齐 
 周华健, "让我欢喜让我忧"演唱者
@@ -83,7 +83,7 @@
 周润发, "上海滩"中饰演"许文强"
     https://baike.baidu.com/item/周润发/135774 
 周深, "大鱼"演唱者
-    https://baike.baidu.com/item/周深 
+    https://baike.baidu.com/item/周深/15089196
 周渝民, "F4"成员
     https://baike.baidu.com/item/周渝民 
 周炜
@@ -101,7 +101,7 @@
 周笑莉
     https://baike.baidu.com/item/周笑莉 
 周笔畅, "笔记"演唱者
-    https://baike.baidu.com/item/周笔畅 
+    https://baike.baidu.com/item/周笔畅/129239 
 周群, 主持人
     https://baike.baidu.com/item/周群/8762488 
 周艳泓, "要嫁就嫁灰太狼"演唱者
@@ -121,9 +121,9 @@
 周采诗
     https://baike.baidu.com/item/周采诗 
 周雨彤
-    https://baike.baidu.com/item/周雨彤 
+    https://baike.baidu.com/item/周雨彤/16807699
 周韦彤
-    https://baike.baidu.com/item/周韦彤 
+    https://baike.baidu.com/item/周韦彤/1921575
 周韵, "太阳照常升起"中饰演"疯妈"
     https://baike.baidu.com/item/周韵/4402089 
 周紫馨, "传闻中的陈芊芊"中饰演"陈楚楚"
@@ -629,11 +629,11 @@
 赵丽蓉, 小品演员
     https://baike.baidu.com/item/赵丽蓉/943867 
 赵丽颖, "花千骨"中饰演"花千骨"
-    https://baike.baidu.com/item/赵丽颖 
+    https://baike.baidu.com/item/赵丽颖/10075976
 赵亮, "康熙微服私访记"中饰演"三德子"
     https://baike.baidu.com/item/赵亮/18614 
 赵今麦, "流浪地球"中饰演"韩朵朵"
-    https://baike.baidu.com/item/赵今麦 
+    https://baike.baidu.com/item/赵今麦/652066
 赵传, "我是一只小小鸟"演唱者
     https://baike.baidu.com/item/赵传 
 赵保乐, 相声
@@ -647,7 +647,7 @@
 赵嘉敏
     https://baike.baidu.com/item/赵嘉敏/7075260 
 赵圆瑗
-    https://baike.baidu.com/item/赵圆瑗 
+    https://baike.baidu.com/item/赵圆瑗/7666690
 赵多娜
     https://baike.baidu.com/item/赵多娜 
 赵奎娥
@@ -687,7 +687,7 @@
 赵曼竹
     https://baike.baidu.com/item/赵曼竹 
 赵本山, 小品
-    https://baike.baidu.com/item/赵本山 
+    https://baike.baidu.com/item/赵本山/131652
 赵柯, "庆余年"中饰演"柳如玉"
     https://baike.baidu.com/item/赵柯/5496994 
 赵楚纶
@@ -747,6 +747,7 @@
 邹娜
 邹宏宇
 邹市明, 拳击运动员
+    https://baike.baidu.com/item/邹市明/10968224
 邹廷威
 邹涵虹
 郑中基, "怪胎"演唱者
@@ -771,6 +772,7 @@
 郑小瑛, 音乐
 郑少秋, "戏说乾隆"中饰演"乾隆"
 郑恺
+    https://baike.baidu.com/item/郑恺/73530
 郑惠玉
 郑文雅
 郑方南
@@ -784,6 +786,7 @@
 郑源, "红尘情歌"演唱者
 郑焱今
 郑爽, "一起来看流星雨"中饰演"楚雨荨"
+    https://baike.baidu.com/item/郑爽/2834479
 郑秀文, "眉飞色舞"演唱者
 郑秀珍, "东游记"中饰演"何仙姑"
 郑罗茜
@@ -809,6 +812,7 @@
 钟凯
 钟嘉欣, "72家租客"中饰演"哈女"
 钟楚曦, "芳华"中饰演"萧穗子"
+    https://baike.baidu.com/item/钟楚曦/3875986
 钟楚红, "奇谋妙计五福星"中饰演"妹头"
 钟欣潼|钟欣桐, "TWINS"成员
 钟汉良, "何以笙箫默"中饰演"何以琛"
