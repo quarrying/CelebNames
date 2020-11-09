@@ -151,7 +151,7 @@
 左宏元, 音乐
     https://baike.baidu.com/item/左宏元 
 左小青, "人在囧途"中饰演"美丽"
-    https://baike.baidu.com/item/左小青 
+    https://baike.baidu.com/item/左小青/511398
 左岩
     https://baike.baidu.com/item/左岩/42177 
 左溢
@@ -175,11 +175,11 @@
 张丰毅, "人民的名义"中饰演"沙瑞金"
     https://baike.baidu.com/item/张丰毅/2139258
 张丹峰
-    https://baike.baidu.com/item/张丹峰 
+    https://baike.baidu.com/item/张丹峰/3740983
 张丹露
     https://baike.baidu.com/item/张丹露/5483521 
 张予曦, "琉璃"中饰演"褚玲珑"
-    https://baike.baidu.com/item/张予曦 
+    https://baike.baidu.com/item/张予曦/8114068
 张云龙
     https://baike.baidu.com/item/张云龙/6154071 
 张亚东
@@ -205,7 +205,7 @@
 张信哲, "信仰"演唱者
     https://baike.baidu.com/item/张信哲 
 张俪
-    https://baike.baidu.com/item/张俪 
+    https://baike.baidu.com/item/张俪/10390391
 张倬闻
     https://baike.baidu.com/item/张倬闻 
 张兆辉, "择天记"中饰演"教宗"
@@ -227,15 +227,15 @@
 张可颐
     https://baike.baidu.com/item/张可颐 
 张含韵, "酸酸甜甜就是我"演唱者
-    https://baike.baidu.com/item/张含韵 
+    https://baike.baidu.com/item/张含韵/147407
 张咏棋
     https://baike.baidu.com/item/张咏棋 
 张咪, "蓝蓝的夜蓝蓝的梦"演唱者
     https://baike.baidu.com/item/张咪/506717 
 张哲瀚|张哲翰
-    https://baike.baidu.com/item/张哲瀚 
+    https://baike.baidu.com/item/张哲瀚/7572565
 张嘉倪, "精忠岳飞"中饰演"吴素素"
-    https://baike.baidu.com/item/张嘉倪 
+    https://baike.baidu.com/item/张嘉倪/5475347
 张嘉儿
     https://baike.baidu.com/item/张嘉儿 
 张嘉益|张嘉译, "蜗居"中饰演"宋思明"
@@ -266,7 +266,9 @@
 张妍
 张婉悠
 张子健, "神探狄仁杰"中饰演"李元芳"
+    https://baike.baidu.com/item/张子健/5388
 张子枫
+    https://baike.baidu.com/item/张子枫/6353405
 张子栋
 张孝全
 张学友, 香港四大天王
@@ -287,6 +289,7 @@
 张延, "粉红女郎"中饰演"何茹男"
 张彤
 张彬彬, "三生三世十里桃花"中饰演"离镜"
+    https://baike.baidu.com/item/张彬彬/15082795
 张怀秋
 张怡宁, 乒乓球运动员
 张恒, "还珠格格"中饰演"塞娅公主"
@@ -296,16 +299,20 @@
 张惠妹, "听海"演唱者
 张惠馨
 张慧雯
+    https://baike.baidu.com/item/张慧雯/13352960
 张振宇
 张敏, 周星驰电影"鹿鼎记"中饰演"假太后"
+    https://baike.baidu.com/item/张敏/11999949
 张敬轩, "过云雨"演唱者
 张文慈, "我和僵尸有个约会"中饰演"山本未来"
 张新成, "以家人之名"中饰演"贺子秋"
+    https://baike.baidu.com/item/张新成/19887955
 张旸
 张昊辰
 张明敏, "我的中国心"演唱者
 张明明
 张晋, "萧十一郎"中饰演"雪鹰"
+    https://baike.baidu.com/item/张晋/6623
 张晓晨
 张晓谦, "知否知否应是绿肥红瘦"中饰演"盛长枫"
 张晓龙
@@ -330,13 +337,16 @@
 张栋梁, "当你孤单你会想起谁"演唱者
 张桐
 张梓琳
+    https://baike.baidu.com/item/张梓琳/5079273
 张楚, "孤独的人是可耻的"演唱者
 张楚楚
 张榕容, "妖猫传"中饰演"杨玉环"
 张檬, "古剑奇谭"中饰演"方如沁"
+    https://baike.baidu.com/item/张檬/847753
 张欣奕
 张歆怡
 张歆艺, "北京爱情故事"中饰演"林夏"
+    https://baike.baidu.com/item/张歆艺/10390484
 张殿菲
 张泉灵, 主持人
 张泽群, 主持人
@@ -345,6 +355,7 @@
 张浩然
 张海燕
 张涵予, 张涵予版"水浒传"中饰演"宋江"
+    https://baike.baidu.com/item/张涵予/747579
 张清芳, "出嫁"演唱者
 张澜澜
 张然
@@ -362,6 +373,7 @@
 张皓然
 张睿
 张碧晨, "中国好声音"
+    https://baike.baidu.com/item/张碧晨/8625011
 张秋歌
 张笑君
 张笛
@@ -379,7 +391,9 @@
 张腾岳, 主持人
 张致恒
 张艺兴, "老九门"中饰演"二月红"
+    https://baike.baidu.com/item/张艺兴/3435810
 张艺谋, 导演
+    https://baike.baidu.com/item/张艺谋/147018
 张艾嘉, "爱的代价"演唱者
 张芝华
 张芯瑜
@@ -419,6 +433,7 @@
 张逸杰
 张钧涵
 张钧甯, "九州·海上牧云记"中饰演"银容"
+    https://baike.baidu.com/item/张钧甯/8831610
 张铁林, "还珠格格"中饰演"皇阿玛"
 张铎
 张铭恩
@@ -450,6 +465,7 @@
 张伟丽, 格斗运动员
 张培萌, 田径运动员
 张继科, 乒乓球运动员
+    https://baike.baidu.com/item/张继科/10798169
 张晓林, "封神榜"中饰演"姬发"
 张明健, "小李飞刀"中饰演"百晓生"
 张昊唯, "庆余年"中饰演"李承乾"
@@ -479,7 +495,7 @@
 张大奕, 网红
     https://baike.baidu.com/item/张大奕/19441662 
 张子萱, "医馆笑传"中饰演"陈安安"
-    https://baike.baidu.com/item/张子萱 
+    https://baike.baidu.com/item/张子萱/152750
 张世, 胡歌版"神话"中饰演"赵高"
     https://baike.baidu.com/item/张世/4061044 
 张雅玫, "中国机长"中饰演"张秋悦"
@@ -801,6 +817,7 @@
 郑融
 郑裕玲
 郑钧, "灰姑娘"演唱者
+    https://baike.baidu.com/item/郑钧/245263
 郑靓歆
 郑龙
 郑绪岚, "牧羊曲"演唱者
