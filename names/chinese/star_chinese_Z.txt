@@ -49,7 +49,7 @@
 周捷
     https://baike.baidu.com/item/周捷/22526 
 周星驰, 喜剧演员
-    https://baike.baidu.com/item/周星驰 
+    https://baike.baidu.com/item/周星驰/169917
 周显欣
     https://baike.baidu.com/item/周显欣 
 周晓涵
@@ -61,7 +61,7 @@
 周杰伦, "七里香"演唱者
     https://baike.baidu.com/item/周杰伦 
 周柏豪
-    https://baike.baidu.com/item/周柏豪 
+    https://baike.baidu.com/item/周柏豪/10082944
 周楚濋
     https://baike.baidu.com/item/周楚濋 
 周毅
@@ -71,13 +71,13 @@
 周汤豪
     https://baike.baidu.com/item/周汤豪/2693551 
 周汶锜
-    https://baike.baidu.com/item/周汶锜 
+    https://baike.baidu.com/item/周汶锜/805880
 周泓
     https://baike.baidu.com/item/周泓/38988 
 周洁琼, "大唐女法医"中饰演"冉颜"
     https://baike.baidu.com/item/周洁琼/8801590 
 周海媚, 马景涛版"倚天屠龙记"中饰演"周芷若"
-    https://baike.baidu.com/item/周海媚 
+    https://baike.baidu.com/item/周海媚/547135
 周涛, 主持人
     https://baike.baidu.com/item/周涛/5390 
 周润发, "上海滩"中饰演"许文强"
@@ -145,7 +145,7 @@
 宗晓军
     https://baike.baidu.com/item/宗晓军/9533457 
 尊龙, "末代皇帝"中饰演"溥仪"
-    https://baike.baidu.com/item/尊龙 
+    https://baike.baidu.com/item/尊龙/1085571
 左大玢, "西游记"中饰演"观音"
     https://baike.baidu.com/item/左大玢/5692267 
 左宏元, 音乐
@@ -272,6 +272,7 @@
 张子栋
 张孝全
 张学友, 香港四大天王
+    https://baike.baidu.com/item/张学友/141598
 张宁江
 张宇, "雨一直下"演唱者
 张宇菲
@@ -320,8 +321,10 @@
 张晨光
 张智尧, "三生三世十里桃花"中饰演"折颜"
 张智霖, 张智霖版"射雕英雄传"中饰演"郭靖"
+    https://baike.baidu.com/item/张智霖/396238 
 张曦文
 张曼玉, "宋氏三姐妹"中饰演"宋庆龄"
+    https://baike.baidu.com/item/张曼玉/328181
 张本渝
 张本煜, "万万没想到"演员
     https://baike.baidu.com/item/张本煜 
@@ -334,6 +337,7 @@
 张柏俊
 张柏嘉
 张柏芝, "星语心愿"演唱者
+    https://baike.baidu.com/item/张柏芝/178578
 张栋梁, "当你孤单你会想起谁"演唱者
 张桐
 张梓琳
@@ -343,6 +347,8 @@
 张榕容, "妖猫传"中饰演"杨玉环"
 张檬, "古剑奇谭"中饰演"方如沁"
     https://baike.baidu.com/item/张檬/847753
+张德兰
+    https://baike.baidu.com/item/张德兰/10515449
 张欣奕
 张歆怡
 张歆艺, "北京爱情故事"中饰演"林夏"
@@ -389,6 +395,7 @@
 张翰, "一起来看流星雨"中饰演"慕容云海"
     https://baike.baidu.com/item/张翰/5353
 张耀扬, "古惑仔"中饰演"乌鸦"
+    https://baike.baidu.com/item/张耀扬/917834
 张腾岳, 主持人
 张致恒
 张艺兴, "老九门"中饰演"二月红"
@@ -429,6 +436,7 @@
 张轩睿
 张辛苑
 张达明
+    https://baike.baidu.com/item/张达明/15073
 张远
 张迪
 张逸杰
