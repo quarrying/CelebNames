@@ -219,13 +219,13 @@
 张勋杰
     https://baike.baidu.com/item/张勋杰 
 张卫健, "机灵小不懂"中饰演"不懂"
-    https://baike.baidu.com/item/张卫健 
+    https://baike.baidu.com/item/张卫健/519917
 张双利
     https://baike.baidu.com/item/张双利 
 张可佳
     https://baike.baidu.com/item/张可佳/3832102 
 张可颐
-    https://baike.baidu.com/item/张可颐 
+    https://baike.baidu.com/item/张可颐/287509
 张含韵, "酸酸甜甜就是我"演唱者
     https://baike.baidu.com/item/张含韵/147407
 张咏棋
@@ -306,11 +306,13 @@
     https://baike.baidu.com/item/张敏/11999949
 张敬轩, "过云雨"演唱者
 张文慈, "我和僵尸有个约会"中饰演"山本未来"
+    https://baike.baidu.com/item/张文慈/621557
 张新成, "以家人之名"中饰演"贺子秋"
     https://baike.baidu.com/item/张新成/19887955
 张旸
 张昊辰
 张明敏, "我的中国心"演唱者
+    https://baike.baidu.com/item/张明敏/7547830
 张明明
 张晋, "萧十一郎"中饰演"雪鹰"
     https://baike.baidu.com/item/张晋/6623
@@ -397,20 +399,25 @@
 张耀扬, "古惑仔"中饰演"乌鸦"
     https://baike.baidu.com/item/张耀扬/917834
 张腾岳, 主持人
+    https://baike.baidu.com/item/张腾岳/6161889 
 张致恒
+    https://baike.baidu.com/item/张致恒/4685067 
 张艺兴, "老九门"中饰演"二月红"
     https://baike.baidu.com/item/张艺兴/3435810
 张艺谋, 导演
     https://baike.baidu.com/item/张艺谋/147018
 张艾嘉, "爱的代价"演唱者
+    https://baike.baidu.com/item/张艾嘉/804901 
 张芝华
+    https://baike.baidu.com/item/张芝华/13137 
 张芯瑜
+    https://baike.baidu.com/item/张芯瑜/10451384 
 张芷溪
-    https://baike.baidu.com/item/张芷溪 
+    https://baike.baidu.com/item/张芷溪/1351450 
 张芸京, "偏爱"演唱者
-    https://baike.baidu.com/item/张芸京 
+    https://baike.baidu.com/item/张芸京/1229845 
 张若昀, "庆余年"中饰演"范闲"
-    https://baike.baidu.com/item/张若昀 
+    https://baike.baidu.com/item/张若昀/9080190 
 张茜
     https://baike.baidu.com/item/张茜/18880 
 张菲, 主持人
@@ -432,55 +439,77 @@
 张语格
     https://baike.baidu.com/item/张语格/4971296 
 张赫宣, "我们不该这样的"演唱者
-    https://baike.baidu.com/item/张赫宣 
+    https://baike.baidu.com/item/张赫宣/6340984 
 张轩睿
+    https://baike.baidu.com/item/张轩睿/19277008 
 张辛苑
+    https://baike.baidu.com/item/张辛苑/9861024 
 张达明
     https://baike.baidu.com/item/张达明/15073
 张远
+    https://baike.baidu.com/item/张远/16466 
 张迪
+    https://baike.baidu.com/item/张迪/10147839 
 张逸杰
+    https://baike.baidu.com/item/张逸杰/3925331 
 张钧涵
+    https://baike.baidu.com/item/张钧涵/3483444 
 张钧甯, "九州·海上牧云记"中饰演"银容"
     https://baike.baidu.com/item/张钧甯/8831610
 张铁林, "还珠格格"中饰演"皇阿玛"
+    https://baike.baidu.com/item/张铁林/283246 
 张铎
+    https://baike.baidu.com/item/张铎/8508 
 张铭恩
+    https://baike.baidu.com/item/张铭恩/19822985 
 张阳阳
+    https://baike.baidu.com/item/张阳阳/3219729 
 张雅萌
+    https://baike.baidu.com/item/张雅萌/202151 
 张雅蓓
+    https://baike.baidu.com/item/张雅蓓/413566 
 张雨生, "我的未来不是梦"演唱者
+    https://baike.baidu.com/item/张雨生/328599 
 张雨绮, "长江七号"中饰演"袁老师"
     https://baike.baidu.com/item/张雨绮/8785636
-张雪倩
 张雪迎, 陈晓版"神雕侠侣"中饰演"郭襄"
     https://baike.baidu.com/item/张雪迎/6327516
 张震, "卧虎藏龙"中饰演"罗小虎"
+    https://baike.baidu.com/item/张震/5330 
 张震岳, "爱的初体验"演唱者
+    https://baike.baidu.com/item/张震岳/440264 
 张靓颖, "画心"演唱者
     https://baike.baidu.com/item/张靓颖/141837
 张静东
+    https://baike.baidu.com/item/张静东/10414312 
 张静初, "天机·富春山居图"中饰演"林雨嫣"
     https://baike.baidu.com/item/张静初/228025
-张静静
 张韶涵, "隐形的翅膀"演唱者
+    https://baike.baidu.com/item/张韶涵/148008 
 张页石
+    https://baike.baidu.com/item/张页石/1494695 
 张馨予, 陈晓版"神雕侠侣"中饰演"李莫愁"
     https://baike.baidu.com/item/张馨予/2996880
 张鲁一, "麻雀"中饰演"毕忠良"
     https://baike.baidu.com/item/张鲁一/4634543
 张默, "张国立"之子
+    https://baike.baidu.com/item/张默/29574 
 张龄心, "琅琊榜"中饰演"夏冬"
+    https://baike.baidu.com/item/张龄心/6293155 
 张伟丽, 格斗运动员
+    https://baike.baidu.com/item/张伟丽/19688961 
 张培萌, 田径运动员
+    https://baike.baidu.com/item/张培萌/4821275 
 张继科, 乒乓球运动员
     https://baike.baidu.com/item/张继科/10798169
 张晓林, "封神榜"中饰演"姬发"
+    https://baike.baidu.com/item/张晓林/3082995 
 张明健, "小李飞刀"中饰演"百晓生"
+    https://baike.baidu.com/item/张明健/4721571 
 张昊唯, "庆余年"中饰演"李承乾"
     https://baike.baidu.com/item/张昊唯/20298694 
 张政勇, "隋唐英雄传"中饰演"宇文成都"
-    https://baike.baidu.com/item/张政勇 
+    https://baike.baidu.com/item/张政勇/8944047 
 张博, 高希希版"三国"中饰演"孙权"
     https://baike.baidu.com/item/张博/9426 
 张黎明, "暗黑者"中饰演"丁局长"
@@ -574,6 +603,7 @@
 朱盈盈
 朱紫汶
 朱茵, 张智霖版"射雕英雄传"中饰演"黄蓉"
+    https://baike.baidu.com/item/朱茵/10617
 朱虹
 朱赤丹
 朱辉
@@ -766,15 +796,22 @@
     https://baike.baidu.com/item/赵樱子/22892544 
 赵鸿飞
     https://baike.baidu.com/item/赵鸿飞/1887241 
-赵鹏
 赵音奇, 主持人
+    https://baike.baidu.com/item/赵音奇/2583800 
 赵学而, "天龙八部"中饰演"木婉清"
     https://baike.baidu.com/item/赵学而/804982
 赵雷, "成都"演唱者
+    https://baike.baidu.com/item/赵雷/9009900 
 赵敏芬, "还珠格格2"中饰演"太后"
+    https://baike.baidu.com/item/赵敏芬/3085748 
 赵树海, "赵又廷"父亲
+    https://baike.baidu.com/item/赵树海/34067 
 赵明明, "我爱我家"中饰演"贾小凡"
+    https://baike.baidu.com/item/赵明明/6743861 
 赵宝刚, 导演
+    https://baike.baidu.com/item/赵宝刚/1460717 
+赵汉唐
+    https://baike.baidu.com/item/赵汉唐/12520872 
 邹兆龙, "九品芝麻官"中饰演"常威"
 邹凯
 邹娜
