@@ -49,7 +49,7 @@
 何晴, "红楼梦"中饰演"秦可卿"
     https://baike.baidu.com/item/何晴/975354 
 何曼婷, "素颜"演唱者
-    https://baike.baidu.com/item/何曼婷 
+    https://baike.baidu.com/item/何曼婷/112709 
 何杜娟
     https://baike.baidu.com/item/何杜娟/3251275 
 何泓姗
@@ -225,44 +225,61 @@
 胡然
     https://baike.baidu.com/item/胡然/4195458 
 胡瓜, "包青天"主题曲演唱者
-胡皓康
+    https://baike.baidu.com/item/胡瓜/6708
 胡盈祯
-胡雯
+    https://baike.baidu.com/item/胡盈祯/1291907 
 胡静, "人民的名义"中饰演"高小琴"
     https://baike.baidu.com/item/胡静/11413
 胡鸿钧
-胡钟婷, 自媒体
+    https://baike.baidu.com/item/胡鸿钧/3300544 
 胡松华, "赞歌"演唱者
+    https://baike.baidu.com/item/胡松华/34353 
 胡彩虹, "传闻中的陈芊芊"中饰演"城主"
+    https://baike.baidu.com/item/胡彩虹/1738367 
 贺一航, "一个人的寂寞两个人的错"演唱者
+    https://baike.baidu.com/item/贺一航/10700407 
 贺丹丹
+    https://baike.baidu.com/item/贺丹丹/7080977 
 贺军翔
+    https://baike.baidu.com/item/贺军翔/204968 
 贺刚
+    https://baike.baidu.com/item/贺刚/29267 
 贺生伟
+    https://baike.baidu.com/item/贺生伟/2140935 
 贺树峰, "乡村爱情"中饰演"谢永强"
+    https://baike.baidu.com/item/贺树峰/869999 
 赫子铭, "大秦帝国之纵横"中饰演"秦武王"
     https://baike.baidu.com/item/赫子铭/10248022
 郝劭文|郝邵文, 电影"新乌龙院"中饰演"小文"
+    https://baike.baidu.com/item/郝劭文/4209650 
 郝好
+    https://baike.baidu.com/item/郝好/7000124 
 郝洛钒
+    https://baike.baidu.com/item/郝洛钒/3633614 
 郝蕾, "十七岁不哭"中饰演"杨宇凌"
     https://baike.baidu.com/item/郝蕾/335771
 霍尊, "卷珠帘"演唱者
     https://baike.baidu.com/item/霍尊/8787306
 霍建华, "仙剑奇侠传三"中饰演"徐长卿"
+    https://baike.baidu.com/item/霍建华/249243 
 霍思燕, "欢天喜地七仙女"中饰演"七仙女"
     https://baike.baidu.com/item/霍思燕/328563
 霍政谚
+    https://baike.baidu.com/item/霍政谚/6597604 
 霍泥芳
-霍焰
+    https://baike.baidu.com/item/霍泥芳/7781992 
 霍青
+    https://baike.baidu.com/item/霍青/10114338 
 霍汶希, 经纪人
     https://baike.baidu.com/item/霍汶希/3869196
 韩一菲
+    https://baike.baidu.com/item/韩一菲/5655386 
 韩东君, "无心法师"中饰演"无心"
     https://baike.baidu.com/item/韩东君/826409
 韩再芬, 黄梅戏
+    https://baike.baidu.com/item/韩再芬/529200 
 韩宝仪, "粉红色的回忆"演唱者
+    https://baike.baidu.com/item/韩宝仪/914722
 韩庚, "SuperJunior"成员
     https://baike.baidu.com/item/韩庚/5909
 韩恩贞
@@ -295,6 +312,7 @@
 黄一山, "唐伯虎点秋香"中饰演"华文"
     https://baike.baidu.com/item/黄一山/65537
 黄丽玲
+    https://baike.baidu.com/item/黄丽玲/58044
 黄义达
 黄伟晋
 黄俊鹏
@@ -303,6 +321,7 @@
     https://baike.baidu.com/item/黄凯芹/627588
 黄勇
 黄品源, "小薇"演唱者
+    https://baike.baidu.com/item/黄品源/621433
 黄圣依, 电影"功夫"中饰演"芳儿"
     https://baike.baidu.com/item/黄圣依/336501
 黄奕, "上错花轿嫁对郎"中饰演"李玉湖"
@@ -326,7 +345,7 @@
 黄家驹, "Beyond"主唱
     https://baike.baidu.com/item/黄家驹/77734 
 黄小琥, "没那么简单"演唱者
-    https://baike.baidu.com/item/黄小琥 
+    https://baike.baidu.com/item/黄小琥/6209758
 黄小蕾, "超级大赢家"
     https://baike.baidu.com/item/黄小蕾 
 黄少祺
@@ -365,12 +384,15 @@
 黄秋生, "无间道"中饰演"黄志诚"
     https://baike.baidu.com/item/黄秋生/506864
 黄立行, "分开旅行"演唱者
+    https://baike.baidu.com/item/黄立行/551960 
 黄绮珊, 歌手
     https://baike.baidu.com/item/黄绮珊/3177854
 黄维德, 高希希版"三国"中饰演"周瑜"
+    https://baike.baidu.com/item/黄维德/6701 
 黄耀明, "达明一派"成员
     https://baike.baidu.com/item/黄耀明/17008
 黄舒骏
+    https://baike.baidu.com/item/黄舒骏/1608166
 黄英
 黄英华, 配乐
 黄西
@@ -397,4 +419,4 @@
 黄明昊, "元气满满的哥哥"
     https://baike.baidu.com/item/黄明昊/21506312 
 黄鸿升
-    https://baike.baidu.com/item/黄鸿升 
+    https://baike.baidu.com/item/黄鸿升/3523762

@@ -127,7 +127,7 @@
 元奎, "七小福"之一
     https://baike.baidu.com/item/元奎/1648790
 元彪, "七小福"之一
-    https://baike.baidu.com/item/元彪 
+    https://baike.baidu.com/item/元彪/303608
 元秋, 电影"功夫"中饰演"包租婆"
     https://baike.baidu.com/item/元秋/1645867
 印小天
@@ -168,7 +168,7 @@
     https://baike.baidu.com/item/叶璇/191450 
 叶祖新, "步步惊心"中饰演"十阿哥"
     https://baike.baidu.com/item/叶祖新 
-叶竞生
+叶竟生
     https://baike.baidu.com/item/叶竟生/7257823
 叶童, "新白娘子传奇"中饰演"许仙"
     https://baike.baidu.com/item/叶童/803404
@@ -264,8 +264,10 @@
 易莉
 易振兴, "万万没想到"导演
 杨丞琳, "左边"演唱者
+    https://baike.baidu.com/item/杨丞琳/299574
 杨丹, 天气预报
-杨丽菁
+杨丽菁, "铁齿铜牙纪晓岚"中饰演"莫愁"
+    https://baike.baidu.com/item/杨丽菁/1201916
 杨丽萍, 舞蹈家
     https://baike.baidu.com/item/杨丽萍/5641
 杨乐乐
@@ -279,12 +281,14 @@
 杨卓娜
 杨坤, "无所谓"演唱者
 杨培安, "我相信"演唱者
+    https://baike.baidu.com/item/杨培安/6435182
 杨姗姗
 杨婷婷
 杨子姗|杨子珊, "重返20岁"中饰演"孟丽君"
     https://baike.baidu.com/item/杨子姗/10966877
 杨安琪, "三生三世十里桃花"中饰演"奈奈"
 杨宗纬, "洋葱"演唱者
+    https://baike.baidu.com/item/杨宗纬/5057379
 杨少华, 相声
 杨幂, "仙剑奇侠传三"中饰演"唐雪见"
     https://baike.baidu.com/item/杨幂/149851
