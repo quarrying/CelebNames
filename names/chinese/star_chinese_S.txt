@@ -190,7 +190,7 @@
 石富宽, 相声和小品演员
     https://baike.baidu.com/item/石富宽 
 舒淇, "西游·降魔篇"中饰演"段姑娘"
-    https://baike.baidu.com/item/舒淇 
+    https://baike.baidu.com/item/舒淇/316282
 舒畅, "宝莲灯"中饰演"小玉"
     https://baike.baidu.com/item/舒畅/143783 
 舒耀瑄, "金粉世家"中饰演"宋世卿"
@@ -200,8 +200,10 @@
 苏妙玲
 苏岩
 苏慧伦, "鸭子"演唱者
+    https://baike.baidu.com/item/苏慧伦/573476
 苏晗烨
 苏有朋, 小虎队
+    https://baike.baidu.com/item/苏有朋/294596
 苏梦玫
 苏永康, "爱一个人好难"演唱者
     https://baike.baidu.com/item/苏永康/375396
@@ -212,6 +214,7 @@
 苏素
 苏紫紫, 模特
 苏芮, "牵手"演唱者
+    https://baike.baidu.com/item/苏芮/2137045
 苏见信, "信乐团"主唱
 苏运莹, "中国好歌曲第二季"全国总决赛亚军
 苏醒_歌手, "快乐男声"全国总决赛亚军
