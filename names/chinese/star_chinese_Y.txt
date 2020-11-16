@@ -87,7 +87,7 @@
 伊一, 主持人
     https://baike.baidu.com/item/伊一 
 伊能静, "流浪的小孩"演唱者
-    https://baike.baidu.com/item/伊能静 
+    https://baike.baidu.com/item/伊能静/375317
 余俊逸
     https://baike.baidu.com/item/余俊逸 
 余声, 主持人
@@ -111,7 +111,7 @@
 余慕莲
     https://baike.baidu.com/item/余慕莲/2449337 
 俞小凡, "婉君"中饰演"夏婉君"
-    https://baike.baidu.com/item/俞小凡 
+    https://baike.baidu.com/item/俞小凡/1198402
 俞思远
     https://baike.baidu.com/item/俞思远/6265713 
 俞灏明, "一起来看流星雨"中饰演"端木磊"
@@ -143,11 +143,11 @@
 叶丽仪, "上海滩"演唱者
     https://baike.baidu.com/item/叶丽仪 
 叶倩文, "潇洒走一回"演唱者
-    https://baike.baidu.com/item/叶倩文 
+    https://baike.baidu.com/item/叶倩文/372235
 叶全真
-    https://baike.baidu.com/item/叶全真 
+    https://baike.baidu.com/item/叶全真/1184443
 叶启田, "爱拼才会赢"演唱者
-    https://baike.baidu.com/item/叶启田 
+    https://baike.baidu.com/item/叶启田/5564714
 叶子媚|叶子楣
     https://baike.baidu.com/item/叶子媚/7990636
 叶子菁, "镜花缘传奇"中饰演"唐小山"
@@ -250,10 +250,13 @@
 岳小军, "疯狂的石头"中饰演"小军"
 岳旸, "伪装者"中饰演"梁仲春"
 岳翎, "青青河边草"中饰演"杜青青"
+    https://baike.baidu.com/item/岳翎/2973669
 应嘉俐
 应昊茗, "古剑奇谭"中饰演"陵端"
 应采儿, "陈小春"妻子
+    https://baike.baidu.com/item/应采儿/5490740
 庾澄庆, "情非得已"演唱者
+    https://baike.baidu.com/item/庾澄庆/378551
 易嘉爱
 易建联, 篮球运动员
     https://baike.baidu.com/item/易建联/141748
@@ -318,7 +321,9 @@
 杨珑
 杨皓宇, "流浪地球"中饰演"何连科"
 杨盼盼
+    https://baike.baidu.com/item/杨盼盼/3534690
 杨祐宁
+    https://baike.baidu.com/item/杨祐宁/6223908
 杨秀惠
 杨立新, "我爱我家"中饰演"贾志国"
 杨童舒, "彭德怀元帅"中饰演"浦安修"
@@ -385,9 +390,9 @@
 游本昌, "济公"中饰演"济公"
     https://baike.baidu.com/item/游本昌 
 游鸿明, "下沙"演唱者
-    https://baike.baidu.com/item/游鸿明 
+    https://baike.baidu.com/item/游鸿明/298744
 炎亚纶, "终极一班"中饰演"丁小雨"
-    https://baike.baidu.com/item/炎亚纶 
+    https://baike.baidu.com/item/炎亚纶/618174
 瑛子
     https://baike.baidu.com/item/瑛子/4132381 
 耶律雪儿

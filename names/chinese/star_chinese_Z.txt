@@ -29,7 +29,7 @@
 周子琰
     https://baike.baidu.com/item/周子琰/5493399 
 周子瑜
-    https://baike.baidu.com/item/周子瑜 
+    https://baike.baidu.com/item/周子瑜/2250318
 周家怡
     https://baike.baidu.com/item/周家怡 
 周家蔚
@@ -163,7 +163,7 @@
 庄心妍, "一万个舍不得"演唱者
     https://baike.baidu.com/item/庄心妍 
 庄濠全
-    https://baike.baidu.com/item/庄濠全 
+    https://baike.baidu.com/item/庄濠全/205409
 庄奴, 作词
     https://baike.baidu.com/item/庄奴 
 张一山, "家有儿女"中饰演"刘星"
@@ -203,7 +203,7 @@
 张佳宁, "知否知否应是绿肥红瘦"中饰演"盛如兰"
     https://baike.baidu.com/item/张佳宁/846151 
 张信哲, "信仰"演唱者
-    https://baike.baidu.com/item/张信哲 
+    https://baike.baidu.com/item/张信哲/175710
 张俪
     https://baike.baidu.com/item/张俪/10390391
 张倬闻
@@ -213,11 +213,11 @@
 张光北, "三国演义"中饰演"吕布"
     https://baike.baidu.com/item/张光北 
 张克帆
-    https://baike.baidu.com/item/张克帆 
+    https://baike.baidu.com/item/张克帆/3113174
 张凯丽, "渴望"中饰演"刘慧芳"
     https://baike.baidu.com/item/张凯丽/2273054 
 张勋杰
-    https://baike.baidu.com/item/张勋杰 
+    https://baike.baidu.com/item/张勋杰/528700
 张卫健, "机灵小不懂"中饰演"不懂"
     https://baike.baidu.com/item/张卫健/519917
 张双利
@@ -262,6 +262,7 @@
     https://baike.baidu.com/item/张云雷/17149 
 张天阳
 张天霖
+    https://baike.baidu.com/item/张天霖/72103
 张如意
 张妍
 张婉悠
@@ -271,10 +272,12 @@
     https://baike.baidu.com/item/张子枫/6353405
 张子栋
 张孝全
+    https://baike.baidu.com/item/张孝全/52582
 张学友, 香港四大天王
     https://baike.baidu.com/item/张学友/141598
 张宁江
 张宇, "雨一直下"演唱者
+    https://baike.baidu.com/item/张宇/16108
 张宇菲
 张宏光, 音乐
 张宏民, 新闻联播
@@ -287,17 +290,20 @@
 张峻宁, "择天记"中饰演"秋山君"
 张帝
 张庭, "穿越时空的爱恋"中饰演"小玩子"
+    https://baike.baidu.com/item/张庭/132029
 张延, "粉红女郎"中饰演"何茹男"
 张彤
 张彬彬, "三生三世十里桃花"中饰演"离镜"
     https://baike.baidu.com/item/张彬彬/15082795
 张怀秋
+    https://baike.baidu.com/item/张怀秋/2152258
 张怡宁, 乒乓球运动员
 张恒, "还珠格格"中饰演"塞娅公主"
 张恒远
 张悦轩
 张悬, "宝贝"演唱者
 张惠妹, "听海"演唱者
+    https://baike.baidu.com/item/张惠妹/234310
 张惠馨
 张慧雯
     https://baike.baidu.com/item/张慧雯/13352960
@@ -321,6 +327,7 @@
 张晓龙
 张晞临, "以家人之名"中饰演"凌和平"
 张晨光
+    https://baike.baidu.com/item/张晨光/7990300
 张智尧, "三生三世十里桃花"中饰演"折颜"
     https://baike.baidu.com/item/张智尧/460370
 张智霖, 张智霖版"射雕英雄传"中饰演"郭靖"
@@ -349,6 +356,7 @@
 张楚, "孤独的人是可耻的"演唱者
 张楚楚
 张榕容, "妖猫传"中饰演"杨玉环"
+    https://baike.baidu.com/item/张榕容/3482856
 张檬, "古剑奇谭"中饰演"方如沁"
     https://baike.baidu.com/item/张檬/847753
 张德兰
@@ -362,17 +370,20 @@
 张泽群, 主持人
 张洪杰
 张洪量, "你知道我在等你吗"演唱者
+    https://baike.baidu.com/item/张洪量/1259073
 张浩然
 张海燕
 张涵予, 张涵予版"水浒传"中饰演"宋江"
     https://baike.baidu.com/item/张涵予/747579
 张清芳, "出嫁"演唱者
+    https://baike.baidu.com/item/张清芳/33492
 张澜澜
 张然
 张熙媛
 张熙恩
 张燕_歌手, "摘石榴"演唱者
 张玉嬿
+    https://baike.baidu.com/item/张玉嬿/9453959
 张玉洁
 张玮
 张琰琰, "琅琊榜"中饰演"莅阳长公主"
@@ -380,6 +391,7 @@
 张瑶
 张璇
 张皓明
+    https://baike.baidu.com/item/张皓明/4121640
 张皓然
 张睿
 张碧晨, "中国好声音"
@@ -388,6 +400,7 @@
 张笑君
 张笛
 张筱婕
+    https://baike.baidu.com/item/张筱婕/6349155
 张筱雨
 张籽沐
 张紫宁, "火箭少女101"成员
@@ -519,9 +532,9 @@
 张亚坤, "穿越时空的爱恋"中饰演"高甫明"
     https://baike.baidu.com/item/张亚坤/25235 
 张棪琰, "疯人院"中饰演"刘素"
-    https://baike.baidu.com/item/张棪琰 
+    https://baike.baidu.com/item/张棪琰/2102454 
 张亦驰, "流浪地球"中饰演"李一一"
-    https://baike.baidu.com/item/张亦驰 
+    https://baike.baidu.com/item/张亦驰/18694899 
 张也, "走进新时代"演唱者
     https://baike.baidu.com/item/张也/2843888 
 张国伟, 跳高运动员
@@ -531,7 +544,7 @@
 张行, "迟到"演唱者
     https://baike.baidu.com/item/张行/614725 
 张冲霄, "冰山上的来客"中饰演"一班长"
-    https://baike.baidu.com/item/张冲霄 
+    https://baike.baidu.com/item/张冲霄/15863548 
 张大奕, 网红
     https://baike.baidu.com/item/张大奕/19441662 
 张子萱, "医馆笑传"中饰演"陈安安"
@@ -539,7 +552,7 @@
 张世, 胡歌版"神话"中饰演"赵高"
     https://baike.baidu.com/item/张世/4061044 
 张雅玫, "中国机长"中饰演"张秋悦"
-    https://baike.baidu.com/item/张雅玫 
+    https://baike.baidu.com/item/张雅玫/6522557 
 张潮, "重案六组"中饰演"郑一民"
     https://baike.baidu.com/item/张潮/2110 
 张维娜, "古剑奇谭"中饰演"孙月言"
@@ -547,7 +560,7 @@
 张伟平, 制片人
     https://baike.baidu.com/item/张伟平/1260436 
 张紫豪, "可不可以"演唱者
-    https://baike.baidu.com/item/张紫豪 
+    https://baike.baidu.com/item/张紫豪/20351252 
 张鑫炎, "少林寺"导演
     https://baike.baidu.com/item/张鑫炎/5763054 
 张大大, 主持人
@@ -558,12 +571,14 @@
     https://baike.baidu.com/item/张永刚/17227 
 张颂文
     https://baike.baidu.com/item/张颂文/80808 
+张春仲
+    https://baike.baidu.com/item/张春仲/5358254 
 战立国
-    https://baike.baidu.com/item/战立国 
+    https://baike.baidu.com/item/战立国/7072546 
 战菁一
-    https://baike.baidu.com/item/战菁一 
+    https://baike.baidu.com/item/战菁一/4769079 
 战卫华, "亮剑"中饰演"张大彪"
-    https://baike.baidu.com/item/战卫华 
+    https://baike.baidu.com/item/战卫华/9280607 
 扎西平措, "中国新歌声"
     https://baike.baidu.com/item/扎西平措/22035515 
 扎西顿珠
@@ -683,11 +698,11 @@
 臧洪娜
     https://baike.baidu.com/item/臧洪娜 
 詹子晴
-    https://baike.baidu.com/item/詹子晴 
+    https://baike.baidu.com/item/詹子晴/2253425
 詹瑞文
     https://baike.baidu.com/item/詹瑞文 
 詹雯婷
-    https://baike.baidu.com/item/詹雯婷 
+    https://baike.baidu.com/item/詹雯婷/1669614
 赵丽娟|娟子, "还珠格格"中饰演"令妃"
     https://baike.baidu.com/item/赵丽娟/15631 
 赵丽蓉, 小品演员
@@ -882,16 +897,19 @@ https://baike.baidu.com/item/郑伊健/324247
 郑佩佩, "唐伯虎点秋香"中饰演"华夫人"
 郑家生, "审死官"中饰演"杀手"
 郑斌辉, 杨旭文版"射雕英雄传"中饰演"铁木真"
+    https://baike.baidu.com/item/郑斌辉/5221089 
 郑晓填, "如果寂寞了"演唱者
-    https://baike.baidu.com/item/郑晓填 
+    https://baike.baidu.com/item/郑晓填/2683163 
 钟丽燕
-    https://baike.baidu.com/item/钟丽燕 
+    https://baike.baidu.com/item/钟丽燕/770567 
 钟丽缇, "中南海保镖"中饰演"杨倩儿"
-    https://baike.baidu.com/item/钟丽缇 
+    https://baike.baidu.com/item/钟丽缇/805488 
 钟伟强
     https://baike.baidu.com/item/钟伟强/79695
 钟凯
+    https://baike.baidu.com/item/钟凯/6998888 
 钟嘉欣, "72家租客"中饰演"哈女"
+    https://baike.baidu.com/item/钟嘉欣/1347476 
 钟楚曦, "芳华"中饰演"萧穗子"
     https://baike.baidu.com/item/钟楚曦/3875986
 钟楚红, "奇谋妙计五福星"中饰演"妹头"
@@ -900,6 +918,8 @@ https://baike.baidu.com/item/郑伊健/324247
     https://baike.baidu.com/item/钟欣潼/9794318
 钟汉良, "何以笙箫默"中饰演"何以琛"
     https://baike.baidu.com/item/钟汉良/135954
-钟绍图
 钟镇涛, "让一切随风"演唱者
     https://baike.baidu.com/item/钟镇涛/805745
+钟卫华
+    https://baike.baidu.com/item/钟卫华/7122121 
+    
