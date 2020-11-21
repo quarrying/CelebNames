@@ -1,5 +1,5 @@
 卓伟, 中国第一狗仔
-    https://baike.baidu.com/item/卓伟 
+    https://baike.baidu.com/item/卓伟/481852 
 卓依婷, 音乐
     https://baike.baidu.com/item/卓依婷/753191 
 卓文萱, "梁山伯与茱丽叶"演唱者
@@ -37,11 +37,11 @@
 周幼婷
     https://baike.baidu.com/item/周幼婷/10841973
 周庭伊
-    https://baike.baidu.com/item/周庭伊 
+    https://baike.baidu.com/item/周庭伊/345678 
 周德华, 陈晓版"神雕侠侣"中饰演"周伯通"
     https://baike.baidu.com/item/周德华/5863271 
 周惠林
-    https://baike.baidu.com/item/周惠林 
+    https://baike.baidu.com/item/周惠林/1244255 
 周慧敏, "痴心换情深"演唱者
     https://baike.baidu.com/item/周慧敏/6702 
 周扬
@@ -51,11 +51,11 @@
 周星驰, 喜剧演员
     https://baike.baidu.com/item/周星驰/169917
 周显欣
-    https://baike.baidu.com/item/周显欣 
+    https://baike.baidu.com/item/周显欣/8597403 
 周晓涵
     https://baike.baidu.com/item/周晓涵/6925267
 周晓鸥
-    https://baike.baidu.com/item/周晓鸥 
+    https://baike.baidu.com/item/周晓鸥/4776644 
 周杰, "还珠格格"中饰演"福尔康"
     https://baike.baidu.com/item/周杰/11171 
 周杰伦, "七里香"演唱者
@@ -63,7 +63,7 @@
 周柏豪
     https://baike.baidu.com/item/周柏豪/10082944
 周楚濋
-    https://baike.baidu.com/item/周楚濋 
+    https://baike.baidu.com/item/周楚濋/22382060 
 周毅
     https://baike.baidu.com/item/周毅/3886635 
 周比利, "精武英雄"中饰演"藤田刚"
@@ -283,12 +283,17 @@
 张宇, "雨一直下"演唱者
     https://baike.baidu.com/item/张宇/16108
 张宇菲
+    https://baike.baidu.com/item/张宇菲/5229861 
 张宏光, 音乐
+    https://baike.baidu.com/item/张宏光/77988 
 张宏民, 新闻联播
+    https://baike.baidu.com/item/张宏民/2051406 
 张定涵, "天涯明月刀"中饰演"明月心"
+    https://baike.baidu.com/item/张定涵/9956509 
 张家辉
     https://baike.baidu.com/item/张家辉/46255
 张小斐, 喜剧演员
+    https://baike.baidu.com/item/张小斐/12001426 
 张小磊
 张少华
 张岩
@@ -871,43 +876,57 @@
 郑家榆, "第8号当铺"中饰演"吕韵音"
     https://baike.baidu.com/item/郑家榆/377224
 郑小瑛, 音乐
+    https://baike.baidu.com/item/郑小瑛/797251 
 郑少秋, "戏说乾隆"中饰演"乾隆"
     https://baike.baidu.com/item/郑少秋/304227
 郑恺
     https://baike.baidu.com/item/郑恺/73530
 郑惠玉
+    https://baike.baidu.com/item/郑惠玉/7988075 
 郑文雅
+    https://baike.baidu.com/item/郑文雅/8300077 
 郑方南
-郑晓东
+    https://baike.baidu.com/item/郑方南/6110712 
 郑晓宁
+    https://baike.baidu.com/item/郑晓宁/1459978 
 郑晓龙
+    https://baike.baidu.com/item/郑晓龙/1343 
 郑智化, "水手"演唱者
     https://baike.baidu.com/item/郑智化/516916
 郑欣宜, "郑少秋"和"沈殿霞"之女
-郑洁
+    https://baike.baidu.com/item/郑欣宜/9247535 
 郑浩南
     https://baike.baidu.com/item/郑浩南/4167807
 郑源, "红尘情歌"演唱者
-郑焱今
+    https://baike.baidu.com/item/郑源/286814 
 郑爽, "一起来看流星雨"中饰演"楚雨荨"
     https://baike.baidu.com/item/郑爽/2834479
 郑秀文, "眉飞色舞"演唱者
     https://baike.baidu.com/item/郑秀文/325723
 郑秀珍, "东游记"中饰演"何仙姑"
+    https://baike.baidu.com/item/郑秀珍/6083403 
 郑罗茜
+    https://baike.baidu.com/item/郑罗茜/859906 
 郑虹
+    https://baike.baidu.com/item/郑虹/53977 
 郑融
+    https://baike.baidu.com/item/郑融/4167660 
 郑裕玲
+    https://baike.baidu.com/item/郑裕玲/1158834 
 郑钧, "灰姑娘"演唱者
     https://baike.baidu.com/item/郑钧/245263
 郑靓歆
     https://baike.baidu.com/item/郑靓歆/9959110
-郑龙
 郑绪岚, "牧羊曲"演唱者
+    https://baike.baidu.com/item/郑绪岚/10981151 
 郑雪儿, "寻秦记"中饰演"赵倩"
+    https://baike.baidu.com/item/郑雪儿/805068 
 郑毓芝, "上错花轿嫁对郎"中饰演"老太君"
+    https://baike.baidu.com/item/郑毓芝/4429707 
 郑佩佩, "唐伯虎点秋香"中饰演"华夫人"
+    https://baike.baidu.com/item/郑佩佩/1471706 
 郑家生, "审死官"中饰演"杀手"
+    https://baike.baidu.com/item/郑家生/4575034 
 郑斌辉, 杨旭文版"射雕英雄传"中饰演"铁木真"
     https://baike.baidu.com/item/郑斌辉/5221089 
 郑晓填, "如果寂寞了"演唱者
