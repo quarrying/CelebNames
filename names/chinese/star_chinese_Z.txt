@@ -11,11 +11,11 @@
 周一围, "九州·海上牧云记"中饰演"硕风和叶"
     https://baike.baidu.com/item/周一围/475066 
 周丽淇, "卫子夫"中饰演"平阳公主"
-    https://baike.baidu.com/item/周丽淇 
+    https://baike.baidu.com/item/周丽淇/210233
 周传雄, "寂寞沙洲冷"演唱者
     https://baike.baidu.com/item/周传雄/154732 
 周俊伟
-    https://baike.baidu.com/item/周俊伟 
+    https://baike.baidu.com/item/周俊伟/3113201
 周兴哲
     https://baike.baidu.com/item/周兴哲 
 周冬雨, 电影"山楂树之恋"女主角
@@ -31,9 +31,9 @@
 周子瑜
     https://baike.baidu.com/item/周子瑜/2250318
 周家怡
-    https://baike.baidu.com/item/周家怡 
+    https://baike.baidu.com/item/周家怡/6599906
 周家蔚
-    https://baike.baidu.com/item/周家蔚 
+    https://baike.baidu.com/item/周家蔚/7592066
 周幼婷
     https://baike.baidu.com/item/周幼婷 
 周庭伊
@@ -237,7 +237,7 @@
 张嘉倪, "精忠岳飞"中饰演"吴素素"
     https://baike.baidu.com/item/张嘉倪/5475347
 张嘉儿
-    https://baike.baidu.com/item/张嘉儿 
+    https://baike.baidu.com/item/张嘉儿/6023720
 张嘉益|张嘉译, "蜗居"中饰演"宋思明"
     https://baike.baidu.com/item/张嘉益/53141837 
 张国强, "天龙八部"中饰演"慕容复"
@@ -287,6 +287,7 @@
 张宏民, 新闻联播
 张定涵, "天涯明月刀"中饰演"明月心"
 张家辉
+    https://baike.baidu.com/item/张家辉/46255
 张小斐, 喜剧演员
 张小磊
 张少华
@@ -329,6 +330,7 @@
 张晓晨
 张晓谦, "知否知否应是绿肥红瘦"中饰演"盛长枫"
 张晓龙
+    https://baike.baidu.com/item/张晓龙/36006
 张晞临, "以家人之名"中饰演"凌和平"
 张晨光
     https://baike.baidu.com/item/张晨光/7990300
@@ -413,6 +415,7 @@
 张绍刚, 主持人
 张绍林
 张继聪
+    https://baike.baidu.com/item/张继聪/5584330
 张翰, "一起来看流星雨"中饰演"慕容云海"
     https://baike.baidu.com/item/张翰/5353
 张耀扬, "古惑仔"中饰演"乌鸦"
@@ -620,6 +623,7 @@
     https://baike.baidu.com/item/朱梓骁/8403180
 朱泳腾
 朱珠
+    https://baike.baidu.com/item/朱珠/6720
 朱琳
 朱盈盈
 朱紫汶
