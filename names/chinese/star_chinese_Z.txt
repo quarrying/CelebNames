@@ -3,11 +3,11 @@
 卓依婷, 音乐
     https://baike.baidu.com/item/卓依婷/753191 
 卓文萱, "梁山伯与茱丽叶"演唱者
-    https://baike.baidu.com/item/卓文萱 
+    https://baike.baidu.com/item/卓文萱/10298704
 卓凡, "隋唐英雄传"中饰演"王伯当"
     https://baike.baidu.com/item/卓凡/3846 
 卓亚君, "Lolita"演唱者
-    https://baike.baidu.com/item/卓亚君 
+    https://baike.baidu.com/item/卓亚君/2155461 
 周一围, "九州·海上牧云记"中饰演"硕风和叶"
     https://baike.baidu.com/item/周一围/475066 
 周丽淇, "卫子夫"中饰演"平阳公主"
@@ -17,11 +17,11 @@
 周俊伟
     https://baike.baidu.com/item/周俊伟/3113201
 周兴哲
-    https://baike.baidu.com/item/周兴哲 
+    https://baike.baidu.com/item/周兴哲/17369686
 周冬雨, 电影"山楂树之恋"女主角
     https://baike.baidu.com/item/周冬雨/5051740
 周冬齐
-    https://baike.baidu.com/item/周冬齐 
+    https://baike.baidu.com/item/周冬齐/2059139 
 周华健, "让我欢喜让我忧"演唱者
     https://baike.baidu.com/item/周华健/6700 
 周奇奇
@@ -35,7 +35,7 @@
 周家蔚
     https://baike.baidu.com/item/周家蔚/7592066
 周幼婷
-    https://baike.baidu.com/item/周幼婷 
+    https://baike.baidu.com/item/周幼婷/10841973
 周庭伊
     https://baike.baidu.com/item/周庭伊 
 周德华, 陈晓版"神雕侠侣"中饰演"周伯通"
@@ -53,13 +53,13 @@
 周显欣
     https://baike.baidu.com/item/周显欣 
 周晓涵
-    https://baike.baidu.com/item/周晓涵 
+    https://baike.baidu.com/item/周晓涵/6925267
 周晓鸥
     https://baike.baidu.com/item/周晓鸥 
 周杰, "还珠格格"中饰演"福尔康"
     https://baike.baidu.com/item/周杰/11171 
 周杰伦, "七里香"演唱者
-    https://baike.baidu.com/item/周杰伦 
+    https://baike.baidu.com/item/周杰伦/129156
 周柏豪
     https://baike.baidu.com/item/周柏豪/10082944
 周楚濋
@@ -85,7 +85,7 @@
 周深, "大鱼"演唱者
     https://baike.baidu.com/item/周深/15089196
 周渝民, "F4"成员
-    https://baike.baidu.com/item/周渝民 
+    https://baike.baidu.com/item/周渝民/150010
 周炜
     https://baike.baidu.com/item/周炜/19656 
 周牧茵
@@ -119,7 +119,7 @@
 周迅, "如懿传"中饰演"如懿"
     https://baike.baidu.com/item/周迅/10076 
 周采诗
-    https://baike.baidu.com/item/周采诗 
+    https://baike.baidu.com/item/周采诗/9425752
 周雨彤
     https://baike.baidu.com/item/周雨彤/16807699
 周韦彤
@@ -129,7 +129,7 @@
 周紫馨, "传闻中的陈芊芊"中饰演"陈楚楚"
     https://baike.baidu.com/item/周紫馨 
 周绍栋, "唐太宗李世民"中饰演"李渊"
-    https://baike.baidu.com/item/周绍栋 
+    https://baike.baidu.com/item/周绍栋/3940218
 周野芒, "水浒传"中饰演"林冲"
     https://baike.baidu.com/item/周野芒 
 周奇墨, 脱口秀演员
@@ -638,6 +638,7 @@
 朱明瑛, "回娘家"演唱者
 朱一旦, 自媒体
 朱孝天, "F4"成员
+    https://baike.baidu.com/item/朱孝天/68180
 朱艺丹, "康熙王朝"中饰演"索尼"
 朱宏嘉, "还珠格格2"中饰演"箫剑"
 朱铁和, 张智霖版"射雕英雄传"中饰演"欧阳锋"
@@ -690,7 +691,7 @@
 章玉善
     https://baike.baidu.com/item/章玉善/2630950 
 竹幼婷, 主持人
-    https://baike.baidu.com/item/竹幼婷 
+    https://baike.baidu.com/item/竹幼婷/10433587
 翟万臣
     https://baike.baidu.com/item/翟万臣 
 翟凌|兽兽, 车模
@@ -752,7 +753,7 @@
 赵寰宇
     https://baike.baidu.com/item/赵寰宇 
 赵小侨
-    https://baike.baidu.com/item/赵小侨 
+    https://baike.baidu.com/item/赵小侨/7357657
 赵小锐, "水浒传"中饰演"李逵"
     https://baike.baidu.com/item/赵小锐 
 赵峥
@@ -838,6 +839,7 @@
 赵汉唐
     https://baike.baidu.com/item/赵汉唐/12520872 
 邹兆龙, "九品芝麻官"中饰演"常威"
+    https://baike.baidu.com/item/邹兆龙/4166623
 邹凯
 邹娜
 邹宏宇
@@ -846,12 +848,14 @@
 邹廷威
 邹涵虹
 郑中基, "怪胎"演唱者
+    https://baike.baidu.com/item/郑中基/805443
 郑丹蕾
 郑亦桐
 郑伊健, "古惑仔"中饰演"陈浩南"
-https://baike.baidu.com/item/郑伊健/324247
+    https://baike.baidu.com/item/郑伊健/324247
 郑佳欣, "小李飞刀"中饰演"林仙儿"
 郑元畅, "恶作剧之吻"中饰演"江直树"
+    https://baike.baidu.com/item/郑元畅/192515
 郑凯
 郑则仕, 别名"肥猫"
 郑卫莉
