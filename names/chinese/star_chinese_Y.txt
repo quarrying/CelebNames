@@ -27,7 +27,7 @@
 于娜
     https://baike.baidu.com/item/于娜/75243 
 于小伟, "庆余年"中饰演"沈重"
-    https://baike.baidu.com/item/于小伟 
+    https://baike.baidu.com/item/于小伟/5509106
 于小彤, 李少红版"红楼梦"中饰演少年"贾宝玉"
     https://baike.baidu.com/item/于小彤/3423360
 于慧
@@ -53,11 +53,11 @@
 于滨
     https://baike.baidu.com/item/于滨/7073 
 于荣光, 高希希版"三国"中饰演"关羽"
-    https://baike.baidu.com/item/于荣光 
+    https://baike.baidu.com/item/于荣光/511610
 于莉
     https://baike.baidu.com/item/于莉/488953 
 于莎莎, "极品女士"
-    https://baike.baidu.com/item/于莎莎 
+    https://baike.baidu.com/item/于莎莎/658205
 于谦, 相声
     https://baike.baidu.com/item/于谦/1533903 
 于越
@@ -393,6 +393,7 @@
     https://baike.baidu.com/item/杨雪/11999911
 杨颖, 即Angelababy
 杨魏玲花, "凤凰传奇"成员
+    https://baike.baidu.com/item/杨魏玲花/10467374
 杨俊勇, "三国演义"中饰演"曹丕"
 杨洪基, "滚滚长江东逝水"演唱者
 杨树林_演员, "隋唐英雄传"中饰演"宇文化及"
