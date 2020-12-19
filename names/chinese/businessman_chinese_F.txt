@@ -8,6 +8,8 @@
     https://baike.baidu.com/item/冯仑/10345267 
 冯鑫, 暴风科技
     https://baike.baidu.com/item/冯鑫/17290 
+冯军, 爱国者
+    https://baike.baidu.com/item/冯军/25762 
 伏彩瑞, 沪江网
     https://baike.baidu.com/item/伏彩瑞/10562076 
 傅成玉, 中石化
@@ -16,3 +18,4 @@
     https://baike.baidu.com/item/傅利泉/8518695 
 傅盛, 猎豹
     https://baike.baidu.com/item/傅盛/2154827 
+    
