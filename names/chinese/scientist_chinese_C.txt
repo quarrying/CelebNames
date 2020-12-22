@@ -24,6 +24,10 @@
     https://baike.baidu.com/item/陈薇/13347752 
 陈赛娟, 细胞遗传学和分子遗传学专家
     https://baike.baidu.com/item/陈赛娟/1524098 
+陈仙辉, 物理学家
+    https://baike.baidu.com/item/陈仙辉/7764570 
+陈国良, 高性能计算专家
+    https://baike.baidu.com/item/陈国良/59217 
 崔琦, 诺贝尔奖获得者
     https://baike.baidu.com/item/崔琦/3707 
 程开甲, 物理学家
@@ -32,5 +36,8 @@
     https://baike.baidu.com/item/程桦/56112 
 曾庆存, 气象学和地球流体力学家
     https://baike.baidu.com/item/曾庆存/2663597 
+曹原, 石墨烯超导
+    https://baike.baidu.com/item/曹原/22431368 
+
 
     

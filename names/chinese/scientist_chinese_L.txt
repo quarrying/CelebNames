@@ -18,10 +18,16 @@
     https://baike.baidu.com/item/李树深/9534352 
 李小文, 遥感学家
     https://baike.baidu.com/item/李小文/32664 
+李曙光, 地球化学家
+    https://baike.baidu.com/item/李曙光/36938 
+李四光, 地质学家
+    https://baike.baidu.com/item/李四光/841 
 林忠钦, 上海交通大学校长
     https://baike.baidu.com/item/林忠钦/1411915 
-林家翘
+林家翘, 应用数学家
     https://baike.baidu.com/item/林家翘/861322 
+林巧稚, 医学家
+    https://baike.baidu.com/item/林巧稚/474216 
 梁樑, 合工大校长
     https://baike.baidu.com/item/梁樑/20474592 
 陆朝阳, 物理学家
@@ -30,4 +36,10 @@
     https://baike.baidu.com/item/骆利群/446409 
 刘永坦, 雷达与信号处理技术专家
     https://baike.baidu.com/item/刘永坦/1609117 
+刘道玉, 化学家
+    https://baike.baidu.com/item/刘道玉/3566315 
+路甬祥
+    https://baike.baidu.com/item/路甬祥/116644 
+卢嘉锡, 物理化学家
+    https://baike.baidu.com/item/卢嘉锡/1626356 
     
