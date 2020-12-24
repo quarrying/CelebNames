@@ -27,7 +27,6 @@ def get_all_records(filenames):
 def get_record_number(records):
     number = 0
     for record in records:
-        # record = record.strip()
         if record == '':
             pass
         elif record.startswith('#'):
@@ -60,15 +59,16 @@ if __name__ == '__main__':
 
     tags_dict = OrderedDict()
     tags_dict['chinese'] = ['businessman_chinese',  
+                            'hot_chinese',
                             'liberal_arts_chinese',
                             'politican_chinese', 
                             'scientist_chinese',
                             'star_chinese']
-    tags_dict['east-asian'] = ['businessman_japan_korea',  
-                               'liberal_arts_japan_korea',
-                               'politican_japan_korea_vn_sg', 
-                               'scientist_japan_korea',
-                               'star_japan_korea']
+    tags_dict['east-asian'] = ['businessman_east_asian',  
+                               'liberal_arts_east_asian',
+                               'politican_east_asian', 
+                               'scientist_east_asian',
+                               'star_east_asian']
     tags_dict['others'] = ['businessman_others',  
                            'politican_others',
                            'scientist_others',
@@ -80,6 +80,7 @@ if __name__ == '__main__':
             records = get_all_records(filenames)
             print('{:<30}: {}'.format(tag, get_record_number(records)))
             all_records += records
+        
     print('{:<30}: {}'.format('total', get_record_number(all_records)))
     print('{:<30}: {}'.format('total with desc', get_record_number_with_desc(all_records)))
     
