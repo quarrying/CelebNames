@@ -328,6 +328,8 @@
     https://baike.baidu.com/item/刘耀文/22107590 
 刘玥霏|刘雨欣
     https://baike.baidu.com/item/刘玥霏/24325523 
+刘天池
+    https://baike.baidu.com/item/刘天池/3489265 
 利晴天, "中国好男儿"
     https://baike.baidu.com/item/利晴天/4069159
 利智, "李连杰"妻子
@@ -410,7 +412,7 @@
     https://baike.baidu.com/item/吕晓禾/1903258 
 吕凉, "济公外传"中饰演"济公"
     https://baike.baidu.com/item/吕凉/3714938 
-娄烨
+娄烨, 导演
     https://baike.baidu.com/item/娄烨/6419308 
 娄艺潇, "爱情公寓"中饰演"唐一菲"
     https://baike.baidu.com/item/娄艺潇/1124277
@@ -964,6 +966,10 @@
     https://baike.baidu.com/item/林鹏/44629 
 林湘萍, "东游记"中饰演"龙三公主"
     https://baike.baidu.com/item/林湘萍/347594 
+林超贤, 导演
+    https://baike.baidu.com/item/林超贤/7757847 
+林彦俊
+    https://baike.baidu.com/item/林彦俊/22414884 
 柳云龙
     https://baike.baidu.com/item/柳云龙/1363254
 柳妍熙
@@ -1050,6 +1056,10 @@
     https://baike.baidu.com/item/梁家仁/1646458 
 梁厚民, 快板书演员
     https://baike.baidu.com/item/梁厚民/7811029 
+梁田, 主持人
+    https://baike.baidu.com/item/梁田/685615 
+梁博, "男孩"演唱者
+    https://baike.baidu.com/item/梁博/2858491 
 练练|练束梅
     https://baike.baidu.com/item/练练/20418157 
 罗中旭, "星光灿烂"演唱者
