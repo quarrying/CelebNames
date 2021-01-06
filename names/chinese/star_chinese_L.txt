@@ -330,6 +330,10 @@
     https://baike.baidu.com/item/刘玥霏/24325523 
 刘天池
     https://baike.baidu.com/item/刘天池/3489265 
+刘柏辛
+    https://baike.baidu.com/item/刘柏辛/22707937
+刘浩存
+    https://baike.baidu.com/item/刘浩存/23284525
 利晴天, "中国好男儿"
     https://baike.baidu.com/item/利晴天/4069159
 利智, "李连杰"妻子
@@ -812,8 +816,6 @@
     https://baike.baidu.com/item/李添胜/1932548 
 李权哲, "乐华七子NEXT"成员
     https://baike.baidu.com/item/李权哲/22393637 
-李诚儒
-    https://baike.baidu.com/item/李诚儒/9271866 
 李肖逸
     https://baike.baidu.com/item/李肖逸/9989968 
 李越昕蕾
@@ -986,8 +988,6 @@
     https://baike.baidu.com/item/梁丽/2918 
 梁冠华, "神探狄仁杰"中饰演"狄仁杰"
     https://baike.baidu.com/item/梁冠华/2001742 
-梁博
-    https://baike.baidu.com/item/梁博/2858491 
 梁又琳
     https://baike.baidu.com/item/梁又琳/10218954
 梁咏琪, "胆小鬼"演唱者
@@ -1126,7 +1126,7 @@
     https://baike.baidu.com/item/蓝天野/590365 
 蓝心湄, "一见钟情"演唱者
     https://baike.baidu.com/item/蓝心湄/6189444 
-蓝心妍
+蓝心妍|蓝燕
     https://baike.baidu.com/item/蓝心妍/23326458
 蓝正龙
     https://baike.baidu.com/item/蓝正龙/376517 

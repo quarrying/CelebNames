@@ -136,6 +136,8 @@
     https://baike.baidu.com/item/周奇墨/53435995 
 周震南
     https://baike.baidu.com/item/周震南/22045893 
+周放
+    https://baike.baidu.com/item/周放/3980
 宗峰岩, "天涯明月刀"中饰演"燕南飞"
     https://baike.baidu.com/item/宗峰岩/4748542 
 宗平
@@ -563,7 +565,7 @@
 张页石
     https://baike.baidu.com/item/张页石/1494695 
 张馨予, 陈晓版"神雕侠侣"中饰演"李莫愁"
-    https://baike.baidu.com/item/张馨予/2996880
+    https://baike.baidu.com/item/张馨予/26128 
 张鲁一, "麻雀"中饰演"毕忠良"
     https://baike.baidu.com/item/张鲁一/4634543
 张默, "张国立"之子
@@ -590,8 +592,6 @@
     https://baike.baidu.com/item/张黎明/7727554
 张亚坤, "穿越时空的爱恋"中饰演"高甫明"
     https://baike.baidu.com/item/张亚坤/25235 
-张棪琰, "疯人院"中饰演"刘素"
-    https://baike.baidu.com/item/张棪琰/2102454 
 张亦驰, "流浪地球"中饰演"李一一"
     https://baike.baidu.com/item/张亦驰/18694899 
 张也, "走进新时代"演唱者
@@ -987,7 +987,7 @@
 郑源, "红尘情歌"演唱者
     https://baike.baidu.com/item/郑源/286814 
 郑爽, "一起来看流星雨"中饰演"楚雨荨"
-    https://baike.baidu.com/item/郑爽/2834479
+    https://baike.baidu.com/item/郑爽/1966 
 郑秀文, "眉飞色舞"演唱者
     https://baike.baidu.com/item/郑秀文/325723
 郑秀珍, "东游记"中饰演"何仙姑"
