@@ -24,8 +24,6 @@
     https://baike.baidu.com/item/王文京/1400836 
 王小川, 搜狗
     https://baike.baidu.com/item/王小川/7813874 
-汪小菲, 俏江南
-    https://baike.baidu.com/item/汪小菲/2527452 
 王欣, 快播
     https://baike.baidu.com/item/王欣/2261492 
 王兴, 美团
@@ -50,6 +48,8 @@
     https://baike.baidu.com/item/王自如/7163422 
 王志东, 新浪
     https://baike.baidu.com/item/王志东/32296 
+汪小菲, 俏江南
+    https://baike.baidu.com/item/汪小菲/2527452 
 汪滔, 大疆
     https://baike.baidu.com/item/汪滔/13851067 
 魏武挥, 投资人
