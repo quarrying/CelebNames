@@ -28,3 +28,4 @@ Fabrice Bellard, FFmpeg作者
 John Carmack, Quake作者
 Vint Cerf, 因特网先驱
 Rob Pike, Go语言之父
+Jeff Dean
