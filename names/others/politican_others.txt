@@ -1,123 +1,267 @@
 ## 柬埔塞
-洪森
-西哈莫尼
-西哈努克
+Hun Sen|洪森
+    http://en.wikipedia.org/wiki/Hun_Sen
+    https://baike.baidu.com/item/洪森/595585 
+Norodom Sihamoni|西哈莫尼
+    http://en.wikipedia.org/wiki/Norodom_Sihamoni
+    https://baike.baidu.com/item/诺罗敦·西哈莫尼/2850525 
+Norodom Sihanouk|西哈努克
+    http://en.wikipedia.org/wiki/Norodom_Sihanouk
+    https://baike.baidu.com/item/诺罗敦·西哈努克/1228099 
 
 ## 马来西亚
-马哈迪
-纳吉布
-慕尤丁
+Mahathir Mohamad|马哈蒂尔|马哈迪
+    http://en.wikipedia.org/wiki/Mahathir_Mohamad
+    https://baike.baidu.com/item/马哈蒂尔·穆罕默德/7152509 
+Najib Razak|纳吉布
+    http://en.wikipedia.org/wiki/Najib_Razak
+    https://baike.baidu.com/item/穆罕默德·纳吉布·阿卜杜尔·拉扎克/23241091 
+Muhyiddin Yassin|慕尤丁
+    http://en.wikipedia.org/wiki/Muhyiddin_Yassin
+    https://baike.baidu.com/item/穆希丁·亚辛/24482497 
+
 
 ## 泰国
-英拉
-颂猜
-阿披实
-他信
-诗琳通
-普密蓬
+Yingluck Shinawatra|英拉
+    http://en.wikipedia.org/wiki/Yingluck_Shinawatra
+    https://baike.baidu.com/item/英拉·西那瓦/8904722 
+Abhisit Vejjajiva|阿披实
+    http://en.wikipedia.org/wiki/Abhisit_Vejjajiva
+    https://baike.baidu.com/item/阿披实·维乍集瓦/8605022 
+Thaksin Shinawatra|他信
+    http://en.wikipedia.org/wiki/Thaksin_Shinawatra
+    https://baike.baidu.com/item/他信·西那瓦/9069293 
+Sirindhorn|诗琳通
+    http://en.wikipedia.org/wiki/Sirindhorn
+    https://baike.baidu.com/item/玛哈·扎克里·诗琳通/7813470 
+Bhumibol Adulyadej|普密蓬
+    http://en.wikipedia.org/wiki/Bhumibol_Adulyadej
+    https://baike.baidu.com/item/普密蓬·阿杜德/1519039 
+
 
 ## 缅甸
-昂山素季
+Aung San Suu Kyi|昂山素季
+    http://en.wikipedia.org/wiki/Aung_San_Suu_Kyi
+    https://baike.baidu.com/item/昂山素季/195632 
+
 
 ## 菲律宾
-杜特尔特
-阿罗约
-阿基诺夫人
-阿基诺三世
+Rodrigo Duterte|杜特尔特
+    http://en.wikipedia.org/wiki/Rodrigo_Duterte
+    https://baike.baidu.com/item/罗德里戈·杜特尔特/19660745 
+Gloria Macapagal Arroyo|阿罗约
+    http://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo
+    https://baike.baidu.com/item/格洛丽亚·马卡帕加尔·阿罗约/775107 
+Corazon Aquino|阿基诺夫人
+    http://en.wikipedia.org/wiki/Corazon_Aquino
+    https://baike.baidu.com/item/科拉松·阿基诺/4448085 
+Benigno Aquino III|阿基诺三世
+    http://en.wikipedia.org/wiki/Benigno_Aquino_III
+    https://baike.baidu.com/item/贝尼尼奥·阿基诺三世/1539398 
+    
 
-## 俄罗斯
-普京
-梅德韦杰夫
-拉夫罗夫
-叶利钦
-伊万诺夫
-久加诺夫
-绍伊古
+## 苏联/俄罗斯
+Vladimir Putin|普京
+    https://baike.baidu.com/item/弗拉基米尔·弗拉基米罗维奇·普京/1156718 
+    http://en.wikipedia.org/wiki/Vladimir_Putin
+Dmitry Medvedev|梅德韦杰夫
+    https://baike.baidu.com/item/德米特里·阿纳托利耶维奇·梅德韦杰夫/5358674 
+    http://en.wikipedia.org/wiki/Dmitry_Medvedev
+Sergey Lavrov|拉夫罗夫
+    https://baike.baidu.com/item/谢尔盖·拉夫罗夫 
+    http://en.wikipedia.org/wiki/Sergey_Lavrov
+Boris Yeltsin|叶利钦
+    https://baike.baidu.com/item/鲍里斯·尼古拉耶维奇·叶利钦 
+    http://en.wikipedia.org/wiki/Boris_Yeltsin
+Gennady Zyuganov|久加诺夫
+    https://baike.baidu.com/item/根纳季·安德列耶维奇·久加诺夫/10840980 
+    http://en.wikipedia.org/wiki/Gennady_Zyuganov
+Sergey Shoygu|绍伊古
+    https://baike.baidu.com/item/谢尔盖·库茹盖托维奇·绍伊古/5537557 
+    http://en.wikipedia.org/wiki/Sergey_Shoygu
+
 
 ## 乌克兰
-尤先科
-亚努科维奇
-波罗申科
-季莫申科
-泽连斯基
+Viktor Yushchenko|尤先科
+    https://baike.baidu.com/item/维克多·安德烈耶维奇·尤先科/7153002 
+    http://en.wikipedia.org/wiki/Viktor_Yushchenko
+Viktor Yanukovych|亚努科维奇
+    https://baike.baidu.com/item/维克托·亚努科维奇/3578401 
+    http://en.wikipedia.org/wiki/Viktor_Yanukovych
+Petro Poroshenko|波罗申科
+    https://baike.baidu.com/item/彼得·阿列克谢耶维奇·波罗申科/23383650 
+    http://en.wikipedia.org/wiki/Petro_Poroshenko
+Yulia Tymoshenko|季莫申科
+    https://baike.baidu.com/item/尤利娅·季莫申科/1438659 
+    http://en.wikipedia.org/wiki/Yulia_Tymoshenko
+Volodymyr Zelensky|泽连斯基
+    https://baike.baidu.com/item/弗拉基米尔·泽连斯基/23386821 
+    http://en.wikipedia.org/wiki/Volodymyr_Zelensky
+
 
 ## 哈萨克斯坦
-纳扎尔巴耶夫
-托卡耶夫
+Nursultan Nazarbayev|纳扎尔巴耶夫
+    https://baike.baidu.com/item/努尔苏丹·阿比舍维奇·纳扎尔巴耶夫/2851121 
+    http://en.wikipedia.org/wiki/Nursultan_Nazarbayev
+Kassym-Jomart Tokayev| 托卡耶夫
+    https://baike.baidu.com/item/卡瑟姆-若马尔特·托卡耶夫/23362900 
+    http://en.wikipedia.org/wiki/Kassym-Jomart_Tokayev
+
 
 ## 印度
-瓦杰帕伊, Atal Bihari Vajpayee
-曼莫汉辛格, Manmohan Singh
-莫迪, Narendra Modi
+Atal Bihari Vajpayee|瓦杰帕伊
+    http://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+Manmohan Singh|曼莫汉辛格
+    http://en.wikipedia.org/wiki/Manmohan_Singh
+Narendra Modi|莫迪
+    http://en.wikipedia.org/wiki/Narendra_Modi
+    https://www.imdb.com/name/nm5177533
+
 
 ## 其他
-穆巴拉克
-萨达姆
-卡扎菲
-查韦斯
-本·拉登
-内塔尼亚胡
-埃尔多安
-卢卡申科
-萨卡什维利, 格鲁吉亚
-谢瓦尔德纳泽, 格鲁吉亚
-谭德塞, 世卫组织总干事
+Hosni Mubarak|穆巴拉克, 曾任埃及总统
+    http://en.wikipedia.org/wiki/Hosni_Mubarak
+Saddam Hussein|萨达姆
+    http://en.wikipedia.org/wiki/Saddam_Hussein
+Muammar Gaddafi|卡扎菲
+    http://en.wikipedia.org/wiki/Muammar_Gaddafi
+Hugo Chávez|查韦斯
+    http://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+Osama bin Laden|本·拉登
+    http://en.wikipedia.org/wiki/Osama_bin_Laden
+Benjamin Netanyahu|内塔尼亚胡
+    http://en.wikipedia.org/wiki/Benjamin_Netanyahu
+Recep Tayyip Erdogan|埃尔多安
+    http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+Alexander Lukashenko|卢卡申科, 白俄罗斯
+    http://en.wikipedia.org/wiki/Alexander_Lukashenko
+Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
+    http://en.wikipedia.org/wiki/Mikheil_Saakashvili
+Tedros Adhanom|谭德塞, 世卫组织总干事
+    http://en.wikipedia.org/wiki/Tedros_Adhanom
+Raúl Castro, 古巴
+    http://en.wikipedia.org/wiki/Ra%C3%BAl_Castro
+Fidel Castro, 古巴
+    http://en.wikipedia.org/wiki/Fidel_Castro
+
 
 ## 欧美
 Franklin D. Roosevelt
+    http://en.wikipedia.org/wiki/Franklin_D._Roosevelt
 Harry S. Truman
+    http://en.wikipedia.org/wiki/Harry_S._Truman
 Dwight D. Eisenhower
+    http://en.wikipedia.org/wiki/Dwight_D._Eisenhower
 John F. Kennedy
+    http://en.wikipedia.org/wiki/John_F._Kennedy
 Lyndon B. Johnson
+    http://en.wikipedia.org/wiki/Lyndon_B._Johnson
 Richard Nixon
+    http://en.wikipedia.org/wiki/Richard_Nixon
 Gerald Ford
+    http://en.wikipedia.org/wiki/Gerald_Ford
 Jimmy Carter
+    http://en.wikipedia.org/wiki/Jimmy_Carter
+    http://www.imdb.com/name/nm0141699
 Ronald Reagan
+    http://en.wikipedia.org/wiki/Ronald_Reagan
 George H. W. Bush
+    http://en.wikipedia.org/wiki/George_H._W._Bush
 Bill Clinton
+    http://en.wikipedia.org/wiki/Bill_Clinton
+    http://www.imdb.com/name/nm0001051
 George W. Bush
+    http://en.wikipedia.org/wiki/George_W._Bush
+    http://www.imdb.com/name/nm0124133
 Barack Obama
+    http://en.wikipedia.org/wiki/Barack_Obama
+    http://www.imdb.com/name/nm1682433
 Donald Trump
+    http://en.wikipedia.org/wiki/Donald_Trump
+    http://www.imdb.com/name/nm0874339
 Dan Quayle
+    http://en.wikipedia.org/wiki/Dan_Quayle
 Al Gore
+    http://en.wikipedia.org/wiki/Al_Gore
 Dick Cheney
+    http://en.wikipedia.org/wiki/Dick_Cheney
 Joe Biden
+    http://en.wikipedia.org/wiki/Joe_Biden
+    http://www.imdb.com/name/nm0081182
 Mike Pence
-Jacqueline Kennedy
+    http://en.wikipedia.org/wiki/Mike_Pence
 Lady Bird Johnson
+    http://en.wikipedia.org/wiki/Lady_Bird_Johnson
 Pat Nixon
-Betty Ford 
+    http://en.wikipedia.org/wiki/Pat_Nixon
+Betty Ford
+    http://en.wikipedia.org/wiki/Betty_Ford
 Rosalynn Carter
+    http://en.wikipedia.org/wiki/Rosalynn_Carter
+    http://www.imdb.com/name/nm0141914
 Nancy Reagan
+    http://en.wikipedia.org/wiki/Nancy_Reagan
 Barbara Bush
+    http://en.wikipedia.org/wiki/Barbara_Bush
 Hillary Clinton
+    http://en.wikipedia.org/wiki/Hillary_Clinton
+    http://www.imdb.com/name/nm0166921
 Laura Bush
+    http://en.wikipedia.org/wiki/Laura_Bush
+    https://www.imdb.com/name/nm1197615
 Michelle Obama
+    http://en.wikipedia.org/wiki/Michelle_Obama
+    http://www.imdb.com/name/nm2349292
 Melania Trump
+    https://en.wikipedia.org/wiki/Melania_Trump
+    http://www.imdb.com/name/nm1514936
 Ivanka Trump
-
-Henry Kissinger
+    http://en.wikipedia.org/wiki/Ivanka_Trump
+    http://www.imdb.com/name/nm1477533
+Henry Kissinger 
+    http://en.wikipedia.org/wiki/Henry_Kissinger
+    https://www.imdb.com/name/nm0457425
 Madeleine Albright
+    http://en.wikipedia.org/wiki/Madeleine_Albright
+    https://www.imdb.com/name/nm1267543
 Colin Powell
+    http://en.wikipedia.org/wiki/Colin_Powell
+    https://www.imdb.com/name/nm0694068
 Condoleezza Rice
+    http://en.wikipedia.org/wiki/Condoleezza_Rice
 William Joseph Burns
+    http://en.wikipedia.org/wiki/William_Joseph_Burns
 John Kerry
+    http://en.wikipedia.org/wiki/John_Kerry
+    http://www.imdb.com/name/nm0449902
 Thomas Shannon
+    http://en.wikipedia.org/wiki/Thomas_A._Shannon_Jr.
 Rex Tillerson
-John J. Sullivan
+    http://en.wikipedia.org/wiki/Rex_Tillerson
 Mike Pompeo
-
+    http://en.wikipedia.org/wiki/Mike_Pompeo
 Donald Rumsfeld
+    http://en.wikipedia.org/wiki/Donald_Rumsfeld
 Robert Gates
+    http://en.wikipedia.org/wiki/Robert_Gates
 Leon Panetta
+    http://en.wikipedia.org/wiki/Leon_Panetta
+    https://www.imdb.com/name/nm1312140
 Chuck Hagel
+    http://en.wikipedia.org/wiki/Chuck_Hagel
 Ash Carter
+    http://en.wikipedia.org/wiki/Ash_Carter
 Jim Mattis
+    http://en.wikipedia.org/wiki/Jim_Mattis
 Patrick M. Shanahan
-
+    http://en.wikipedia.org/wiki/Patrick_M._Shanahan
 Jacinda Ardern, 新西兰总理
+    http://en.wikipedia.org/wiki/Jacinda_Ardern
+    https://www.imdb.com/name/nm9013671
 Xavier Bettel, 卢森堡首相
+    http://en.wikipedia.org/wiki/Xavier_Bettel
 Stéphane Dujarric
-Raúl Castro
+    http://en.wikipedia.org/wiki/St%C3%A9phane_Dujarric
 Justin Trudeau
-
+    http://en.wikipedia.org/wiki/Justin_Trudeau
+    http://www.imdb.com/name/nm0874040

@@ -1,31 +1,58 @@
 Richard Matthew Stallman, Emacs
-David Patterson
+    http://en.wikipedia.org/wiki/Richard_Stallman
+    https://www.imdb.com/name/nm1128476
 Donald Ervin Knuth
+    http://en.wikipedia.org/wiki/Donald_Knuth
 Bjarne Stroustrup, C++之父
+    http://en.wikipedia.org/wiki/Bjarne_Stroustrup
+    https://www.imdb.com/name/nm2432566
 Linus Torvalds, Linux之父
+    http://en.wikipedia.org/wiki/Linus_Torvalds
+    http://en.wikipedia.org/wiki/Linus_Torvalds
 Dennis Ritchie, C语言之父
+    http://en.wikipedia.org/wiki/Dennis_Ritchie
 Brian Kernighan
+    http://en.wikipedia.org/wiki/Brian_Kernighan
 James Gosling, Java语言之父
+    http://en.wikipedia.org/wiki/James_Gosling
 Guido van Rossum, Python之父
+    http://en.wikipedia.org/wiki/Guido_van_Rossum
 Anders Hejlsberg, C#语言之父
+    http://en.wikipedia.org/wiki/Anders_Hejlsberg
 Rasmus Lerdorf, PHP之父
+    http://en.wikipedia.org/wiki/Rasmus_Lerdorf
 Tim Berners-Lee
+    http://en.wikipedia.org/wiki/Tim_Berners-Lee
+    https://www.imdb.com/name/nm3805083
 Aaron Hillel Swartz, Markdown
+    http://en.wikipedia.org/wiki/Aaron_Swartz
 Brendan Eich, JavaScript之父
+    http://en.wikipedia.org/wiki/Brendan_Eich
 Douglas Crockford, JSON之父
+    http://en.wikipedia.org/wiki/Douglas_Crockford
 Shwetak Patel, ACM
+    http://en.wikipedia.org/wiki/Shwetak_Patel
 Cherri M. Pancake, ACM
+    http://en.wikipedia.org/wiki/Cherri_M._Pancake
 Sepp Hochreiter
+    http://en.wikipedia.org/wiki/Sepp_Hochreiter
 Jürgen Schmidhuber
+    http://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber
 Peter Norvig
+    http://en.wikipedia.org/wiki/Peter_Norvig
 Bram Moolenaar, Vim之父
-Herb Sutter, Exceptional C++作者
+    http://en.wikipedia.org/wiki/Bram_Moolenaar
 Marc Andreessen, Mosaic浏览器
+    http://en.wikipedia.org/wiki/Marc_Andreessen
 Ryan Dahl, node.js之父
-Scott Meyers
+    http://en.wikipedia.org/wiki/Ryan_Dahl
 Stephen Wolfram, Mathematica首席设计师
+    http://en.wikipedia.org/wiki/Stephen_Wolfram
 Fabrice Bellard, FFmpeg作者
+    http://en.wikipedia.org/wiki/Fabrice_Bellard
 John Carmack, Quake作者
+    http://en.wikipedia.org/wiki/John_Carmack
 Vint Cerf, 因特网先驱
+    http://en.wikipedia.org/wiki/Vint_Cerf
 Rob Pike, Go语言之父
-Jeff Dean
+    http://en.wikipedia.org/wiki/Rob_Pike

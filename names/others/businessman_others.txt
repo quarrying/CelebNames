@@ -1,37 +1,88 @@
-Bill Gates
-Steve Ballmer
+Bill Gates, 微软
+    http://en.wikipedia.org/wiki/Bill_Gates
+    http://www.imdb.com/name/nm0309540
+Steve Ballmer, 微软
+    http://en.wikipedia.org/wiki/Steve_Ballmer
+    http://www.imdb.com/name/nm0050883
 Melinda Gates
+    http://en.wikipedia.org/wiki/Melinda_Gates
+    https://www.imdb.com/name/nm2320473
 Larry Ellison
+    http://en.wikipedia.org/wiki/Larry_Ellison
+    http://www.imdb.com/name/nm0255213
 Paul Allen
-Timothy Donald Cook
-Jeff Bezos
+    http://en.wikipedia.org/wiki/Paul_Allen
+Tim Cook, 苹果
+    http://en.wikipedia.org/wiki/Tim_Cook
+Jeff Bezos, 亚马逊
+    http://en.wikipedia.org/wiki/Jeff_Bezos
+    http://www.imdb.com/name/nm1757263
 Warren Buffett
+    http://en.wikipedia.org/wiki/Warren_Buffett
+    http://www.imdb.com/name/nm1104789
 Mark Zuckerberg
+    http://en.wikipedia.org/wiki/Mark_Zuckerberg
+    http://www.imdb.com/name/nm3212916
 Michael Bloomberg
+    http://en.wikipedia.org/wiki/Michael_Bloomberg
+    http://www.imdb.com/name/nm0089255
 Larry Page
+    http://en.wikipedia.org/wiki/Larry_Page
 Sergey Brin
+    http://en.wikipedia.org/wiki/Sergey_Brin
 Amancio Ortega
+    http://en.wikipedia.org/wiki/Amancio_Ortega
 Mukesh Ambani
+    http://en.wikipedia.org/wiki/Mukesh_Ambani
 Priscilla Chan
+    http://en.wikipedia.org/wiki/Priscilla_Chan
 Sundar Pichai
-Satya Nadella
+    http://en.wikipedia.org/wiki/Sundar_Pichai
+Satya Nadella, 微软
+    http://en.wikipedia.org/wiki/Satya_Nadella
 Marissa Mayer
+    http://en.wikipedia.org/wiki/Marissa_Mayer
+    https://www.imdb.com/name/nm3217677
 Phil Knight
+    http://en.wikipedia.org/wiki/Phil_Knight
 Dennis Muilenburg
-Mackenzie Bezos
+    http://en.wikipedia.org/wiki/Dennis_Muilenburg
+    https://www.imdb.com/name/nm4361180
 Howard Schultz
+    http://en.wikipedia.org/wiki/Howard_Schultz
 Rajeev Suri
+    http://en.wikipedia.org/wiki/Rajeev_Suri
 Susan Wojcicki
+    http://en.wikipedia.org/wiki/Susan_Wojcicki
+    http://www.imdb.com/name/nm6279733
 Virginia Rometty
+    http://en.wikipedia.org/wiki/Ginni_Rometty
 Carly Fiorina
+    http://en.wikipedia.org/wiki/Carly_Fiorina
+    https://www.imdb.com/name/nm2439349
 Carol Bartz
+    http://en.wikipedia.org/wiki/Carol_Bartz
 Sheryl Sandberg
+    http://en.wikipedia.org/wiki/Sheryl_Sandberg
 George Soros
+    http://en.wikipedia.org/wiki/George_Soros
 Sheldon Adelson
+    http://en.wikipedia.org/wiki/Sheldon_Adelson
 Rupert Murdoch
+    http://en.wikipedia.org/wiki/Rupert_Murdoch
+    http://www.imdb.com/name/nm0613770
 Sumner Redstone
+    http://en.wikipedia.org/wiki/Sumner_Redstone
 John Malone
+    http://en.wikipedia.org/wiki/John_C._Malone
 Bernard Arnault
+    http://en.wikipedia.org/wiki/Bernard_Arnault
 Delphine Arnault
+    http://en.wikipedia.org/wiki/Delphine_Arnault
 Darren Woods
+    http://en.wikipedia.org/wiki/Darren_Woods
 Elon Musk
+    http://en.wikipedia.org/wiki/Elon_Musk
+    https://www.imdb.com/name/nm1907769/
+
+    
