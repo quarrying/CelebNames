@@ -9,6 +9,7 @@ Norodom Sihanouk|西哈努克
     http://en.wikipedia.org/wiki/Norodom_Sihanouk
     https://baike.baidu.com/item/诺罗敦·西哈努克/1228099 
 
+
 ## 马来西亚
 Mahathir Mohamad|马哈蒂尔|马哈迪
     http://en.wikipedia.org/wiki/Mahathir_Mohamad
@@ -20,6 +21,24 @@ Muhyiddin Yassin|慕尤丁
     http://en.wikipedia.org/wiki/Muhyiddin_Yassin
     https://baike.baidu.com/item/穆希丁·亚辛/24482497 
 
+
+## 印尼
+Joko Widodo|佐科·维多多
+    http://en.wikipedia.org/wiki/Joko_Widodo
+    https://baike.baidu.com/item/佐科·维多多/13985151 
+Megawati Sukarnoputri|梅加瓦蒂
+    https://baike.baidu.com/item/梅加瓦蒂·苏加诺/2770546 
+    http://en.wikipedia.org/wiki/Megawati_Sukarnoputri
+Abdurrahman Wahid|瓦希德 
+    https://baike.baidu.com/item/阿卜杜勒拉赫曼·瓦希德 
+    http://en.wikipedia.org/wiki/Abdurrahman_Wahid
+Susilo Bambang Yudhoyono|苏西洛
+    https://baike.baidu.com/item/苏西洛·班邦·尤多约诺/2680233 
+    http://en.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono
+Suharto|苏哈托
+    https://baike.baidu.com/item/苏哈托/2452651 
+    http://en.wikipedia.org/wiki/Suharto
+    
 
 ## 泰国
 Yingluck Shinawatra|英拉
@@ -37,6 +56,12 @@ Sirindhorn|诗琳通
 Bhumibol Adulyadej|普密蓬
     http://en.wikipedia.org/wiki/Bhumibol_Adulyadej
     https://baike.baidu.com/item/普密蓬·阿杜德/1519039 
+Vajiralongkorn|玛哈·哇集拉隆功
+    http://en.wikipedia.org/wiki/Vajiralongkorn
+    https://baike.baidu.com/item/玛哈·哇集拉隆功/6331646 
+Prayut Chan-o-cha|巴育
+    https://baike.baidu.com/item/巴育·占奥差/13975132 
+    http://en.wikipedia.org/wiki/Prayut_Chan-o-cha
 
 
 ## 缅甸
@@ -79,6 +104,9 @@ Gennady Zyuganov|久加诺夫
 Sergey Shoygu|绍伊古
     https://baike.baidu.com/item/谢尔盖·库茹盖托维奇·绍伊古/5537557 
     http://en.wikipedia.org/wiki/Sergey_Shoygu
+Mikhail Gorbachev|戈尔巴乔夫
+    https://baike.baidu.com/item/米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫/3488813 
+    http://en.wikipedia.org/wiki/Mikhail_Gorbachev
 
 
 ## 乌克兰
@@ -111,38 +139,76 @@ Kassym-Jomart Tokayev| 托卡耶夫
 ## 印度
 Atal Bihari Vajpayee|瓦杰帕伊
     http://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
-Manmohan Singh|曼莫汉辛格
+    https://baike.baidu.com/item/阿塔尔·比哈里·瓦杰帕伊/2679913 
+Manmohan Singh|曼莫汉·辛格
     http://en.wikipedia.org/wiki/Manmohan_Singh
+    https://baike.baidu.com/item/曼莫汉·辛格/2680644 
 Narendra Modi|莫迪
     http://en.wikipedia.org/wiki/Narendra_Modi
-    https://www.imdb.com/name/nm5177533
+    https://baike.baidu.com/item/纳伦德拉·莫迪/5973252 
 
 
 ## 其他
 Hosni Mubarak|穆巴拉克, 曾任埃及总统
     http://en.wikipedia.org/wiki/Hosni_Mubarak
-Saddam Hussein|萨达姆
+    https://baike.baidu.com/item/穆罕默德·胡斯尼·穆巴拉克/1711231 
+Saddam Hussein|萨达姆, 伊拉克
     http://en.wikipedia.org/wiki/Saddam_Hussein
-Muammar Gaddafi|卡扎菲
+    https://baike.baidu.com/item/萨达姆·侯赛因/623454 
+Muammar Gaddafi|卡扎菲, 利比亚
     http://en.wikipedia.org/wiki/Muammar_Gaddafi
-Hugo Chávez|查韦斯
+    https://baike.baidu.com/item/奥马尔·穆阿迈尔·卡扎菲/3673442 
+Hugo Chávez|查韦斯, 委内瑞拉
     http://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+    https://baike.baidu.com/item/乌戈·拉斐尔·查韦斯·弗里亚斯/1566768 
 Osama bin Laden|本·拉登
     http://en.wikipedia.org/wiki/Osama_bin_Laden
-Benjamin Netanyahu|内塔尼亚胡
+    https://baike.baidu.com/item/乌萨马·本·穆罕默德·本·阿瓦德·本·拉丹/20165851 
+Benjamin Netanyahu|内塔尼亚胡, 以色列
     http://en.wikipedia.org/wiki/Benjamin_Netanyahu
-Recep Tayyip Erdogan|埃尔多安
+    https://baike.baidu.com/item/本雅明·内塔尼亚胡/3640612 
+Recep Tayyip Erdogan|埃尔多安, 土耳其
     http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+    https://baike.baidu.com/item/雷杰普·塔伊普·埃尔多安/2867550 
 Alexander Lukashenko|卢卡申科, 白俄罗斯
     http://en.wikipedia.org/wiki/Alexander_Lukashenko
+    https://baike.baidu.com/item/亚历山大·格里戈里耶维奇·卢卡申科/3653472 
 Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
     http://en.wikipedia.org/wiki/Mikheil_Saakashvili
+    https://baike.baidu.com/item/米哈伊尔·萨卡什维利/1827431 
 Tedros Adhanom|谭德塞, 世卫组织总干事
     http://en.wikipedia.org/wiki/Tedros_Adhanom
-Raúl Castro, 古巴
+    https://baike.baidu.com/item/谭德塞/22091696 
+Raúl Castro|劳尔·卡斯特罗, 古巴
     http://en.wikipedia.org/wiki/Ra%C3%BAl_Castro
-Fidel Castro, 古巴
+    https://baike.baidu.com/item/劳尔·卡斯特罗/7171810 
+Fidel Castro|菲德尔·卡斯特罗, 古巴
     http://en.wikipedia.org/wiki/Fidel_Castro
+    https://baike.baidu.com/item/菲德尔·卡斯特罗/2311713 
+Yasser Arafat|阿拉法特, 巴勒斯坦
+    http://en.wikipedia.org/wiki/Yasser_Arafat
+    https://baike.baidu.com/item/亚西尔·阿拉法特/3639958 
+Mahmoud Abbas|阿巴斯, 巴勒斯坦
+    http://en.wikipedia.org/wiki/Mahmoud_Abbas
+    https://baike.baidu.com/item/马哈茂德·阿巴斯/3638834 
+Bashar al-Assad|巴沙尔·阿萨德, 叙利亚
+    http://en.wikipedia.org/wiki/Bashar_al-Assad
+    https://baike.baidu.com/item/巴沙尔·阿萨德/2867946 
+Hafiz al-Assad|哈菲兹·阿萨德, 叙利亚
+    http://en.wikipedia.org/wiki/Hafez_al-Assad
+    https://baike.baidu.com/item/哈菲兹·阿萨德/4713288 
+Pervez Musharraf|穆沙拉夫, 巴基斯坦
+    http://en.wikipedia.org/wiki/Pervez_Musharraf
+    https://baike.baidu.com/item/佩尔韦兹·穆沙拉夫/2264418 
+Mahmoud Ahmadinejad|内贾德, 伊朗
+    http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
+    https://baike.baidu.com/item/马哈茂德·艾哈迈迪-内贾德/2186738 
+Ariel Sharon|阿里埃勒·沙龙, 以色列
+    https://baike.baidu.com/item/阿里埃勒·沙龙/113770 
+    http://en.wikipedia.org/wiki/Ariel_Sharon
+Yitzhak Rabin|拉宾, 以色列
+    https://baike.baidu.com/item/伊扎克·拉宾/2871220 
+    http://en.wikipedia.org/wiki/Yitzhak_Rabin
 
 
 ## 欧美
@@ -255,13 +321,12 @@ Jim Mattis
     http://en.wikipedia.org/wiki/Jim_Mattis
 Patrick M. Shanahan
     http://en.wikipedia.org/wiki/Patrick_M._Shanahan
-Jacinda Ardern, 新西兰总理
+Jacinda Ardern, 新西兰
     http://en.wikipedia.org/wiki/Jacinda_Ardern
     https://www.imdb.com/name/nm9013671
-Xavier Bettel, 卢森堡首相
+Xavier Bettel, 卢森堡
     http://en.wikipedia.org/wiki/Xavier_Bettel
-Stéphane Dujarric
-    http://en.wikipedia.org/wiki/St%C3%A9phane_Dujarric
-Justin Trudeau
+Justin Trudeau, 加拿大
     http://en.wikipedia.org/wiki/Justin_Trudeau
     http://www.imdb.com/name/nm0874040
+
