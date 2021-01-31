@@ -56,3 +56,6 @@ Vint Cerf, 因特网先驱
     http://en.wikipedia.org/wiki/Vint_Cerf
 Rob Pike, Go语言之父
     http://en.wikipedia.org/wiki/Rob_Pike
+Richard Feynman, 理论物理学家
+    http://en.wikipedia.org/wiki/Richard_Feynman
+    

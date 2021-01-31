@@ -85,6 +85,15 @@ Benigno Aquino III|阿基诺三世
     https://baike.baidu.com/item/贝尼尼奥·阿基诺三世/1539398 
     
 
+## 蒙古
+Tsakhiagiin Elbegdorj, 蒙古
+    https://baike.baidu.com/item/查希亚·额勒贝格道尔吉/5822348 
+    http://en.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj
+Khaltmaagiin Battulga, 蒙古
+    https://baike.baidu.com/item/哈勒特马·巴特图勒嘎/21952387 
+    http://en.wikipedia.org/wiki/Khaltmaagiin_Battulga
+
+
 ## 苏联/俄罗斯
 Vladimir Putin|普京
     https://baike.baidu.com/item/弗拉基米尔·弗拉基米罗维奇·普京/1156718 
@@ -146,72 +155,35 @@ Manmohan Singh|曼莫汉·辛格
 Narendra Modi|莫迪
     http://en.wikipedia.org/wiki/Narendra_Modi
     https://baike.baidu.com/item/纳伦德拉·莫迪/5973252 
+Ram Nath Kovind
+    https://baike.baidu.com/item/拉姆·纳特·科温德/22046032 
+    http://en.wikipedia.org/wiki/Ram_Nath_Kovind
 
 
-## 其他
-Hosni Mubarak|穆巴拉克, 曾任埃及总统
-    http://en.wikipedia.org/wiki/Hosni_Mubarak
-    https://baike.baidu.com/item/穆罕默德·胡斯尼·穆巴拉克/1711231 
-Saddam Hussein|萨达姆, 伊拉克
-    http://en.wikipedia.org/wiki/Saddam_Hussein
-    https://baike.baidu.com/item/萨达姆·侯赛因/623454 
-Muammar Gaddafi|卡扎菲, 利比亚
-    http://en.wikipedia.org/wiki/Muammar_Gaddafi
-    https://baike.baidu.com/item/奥马尔·穆阿迈尔·卡扎菲/3673442 
+## 拉美
 Hugo Chávez|查韦斯, 委内瑞拉
     http://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
     https://baike.baidu.com/item/乌戈·拉斐尔·查韦斯·弗里亚斯/1566768 
-Osama bin Laden|本·拉登
-    http://en.wikipedia.org/wiki/Osama_bin_Laden
-    https://baike.baidu.com/item/乌萨马·本·穆罕默德·本·阿瓦德·本·拉丹/20165851 
-Benjamin Netanyahu|内塔尼亚胡, 以色列
-    http://en.wikipedia.org/wiki/Benjamin_Netanyahu
-    https://baike.baidu.com/item/本雅明·内塔尼亚胡/3640612 
-Recep Tayyip Erdogan|埃尔多安, 土耳其
-    http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
-    https://baike.baidu.com/item/雷杰普·塔伊普·埃尔多安/2867550 
-Alexander Lukashenko|卢卡申科, 白俄罗斯
-    http://en.wikipedia.org/wiki/Alexander_Lukashenko
-    https://baike.baidu.com/item/亚历山大·格里戈里耶维奇·卢卡申科/3653472 
-Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
-    http://en.wikipedia.org/wiki/Mikheil_Saakashvili
-    https://baike.baidu.com/item/米哈伊尔·萨卡什维利/1827431 
-Tedros Adhanom|谭德塞, 世卫组织总干事
-    http://en.wikipedia.org/wiki/Tedros_Adhanom
-    https://baike.baidu.com/item/谭德塞/22091696 
+Nicolás Maduro, 委内瑞拉
+    https://baike.baidu.com/item/尼古拉斯·马杜罗/6833060 
+    http://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
 Raúl Castro|劳尔·卡斯特罗, 古巴
     http://en.wikipedia.org/wiki/Ra%C3%BAl_Castro
     https://baike.baidu.com/item/劳尔·卡斯特罗/7171810 
 Fidel Castro|菲德尔·卡斯特罗, 古巴
     http://en.wikipedia.org/wiki/Fidel_Castro
     https://baike.baidu.com/item/菲德尔·卡斯特罗/2311713 
-Yasser Arafat|阿拉法特, 巴勒斯坦
-    http://en.wikipedia.org/wiki/Yasser_Arafat
-    https://baike.baidu.com/item/亚西尔·阿拉法特/3639958 
-Mahmoud Abbas|阿巴斯, 巴勒斯坦
-    http://en.wikipedia.org/wiki/Mahmoud_Abbas
-    https://baike.baidu.com/item/马哈茂德·阿巴斯/3638834 
-Bashar al-Assad|巴沙尔·阿萨德, 叙利亚
-    http://en.wikipedia.org/wiki/Bashar_al-Assad
-    https://baike.baidu.com/item/巴沙尔·阿萨德/2867946 
-Hafiz al-Assad|哈菲兹·阿萨德, 叙利亚
-    http://en.wikipedia.org/wiki/Hafez_al-Assad
-    https://baike.baidu.com/item/哈菲兹·阿萨德/4713288 
-Pervez Musharraf|穆沙拉夫, 巴基斯坦
-    http://en.wikipedia.org/wiki/Pervez_Musharraf
-    https://baike.baidu.com/item/佩尔韦兹·穆沙拉夫/2264418 
-Mahmoud Ahmadinejad|内贾德, 伊朗
-    http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
-    https://baike.baidu.com/item/马哈茂德·艾哈迈迪-内贾德/2186738 
-Ariel Sharon|阿里埃勒·沙龙, 以色列
-    https://baike.baidu.com/item/阿里埃勒·沙龙/113770 
-    http://en.wikipedia.org/wiki/Ariel_Sharon
-Yitzhak Rabin|拉宾, 以色列
-    https://baike.baidu.com/item/伊扎克·拉宾/2871220 
-    http://en.wikipedia.org/wiki/Yitzhak_Rabin
+Dilma Rousseff, 巴西
+    https://baike.baidu.com/item/迪尔玛·罗塞夫/1921328 
+    http://en.wikipedia.org/wiki/Dilma_Rousseff
+Jair Bolsonaro, 巴西
+    https://baike.baidu.com/item/雅伊尔·梅西亚斯·博索纳罗/23399257 
+    http://en.wikipedia.org/wiki/Jair_Bolsonaro
+Sebastian Pinera, 智利
+    http://en.wikipedia.org/wiki/Sebastián_Piñera 
 
 
-## 欧美
+## 美国
 Franklin D. Roosevelt
     http://en.wikipedia.org/wiki/Franklin_D._Roosevelt
 Harry S. Truman
@@ -254,6 +226,7 @@ Dick Cheney
 Joe Biden
     http://en.wikipedia.org/wiki/Joe_Biden
     http://www.imdb.com/name/nm0081182
+    https://baike.baidu.com/item/约瑟夫·拜登/5363618 
 Mike Pence
     http://en.wikipedia.org/wiki/Mike_Pence
 Lady Bird Johnson
@@ -321,6 +294,51 @@ Jim Mattis
     http://en.wikipedia.org/wiki/Jim_Mattis
 Patrick M. Shanahan
     http://en.wikipedia.org/wiki/Patrick_M._Shanahan
+
+
+## 西方
+Angela Merkel, 德国
+    https://baike.baidu.com/item/安格拉·默克尔/3335469 
+    http://en.wikipedia.org/wiki/Angela_Merkel
+Jacques Chirac, 法国
+    https://baike.baidu.com/item/雅克·希拉克/607025 
+    http://en.wikipedia.org/wiki/Jacques_Chirac
+Nicolas Sarkozy, 法国
+    https://baike.baidu.com/item/尼古拉·萨科齐/4242790 
+    http://en.wikipedia.org/wiki/Nicolas_Sarkozy
+François Hollande, 法国
+    https://baike.baidu.com/item/弗朗索瓦·奥朗德/8475148 
+    http://en.wikipedia.org/wiki/François_Hollande 
+Emmanuel Macron, 法国
+    https://baike.baidu.com/item/埃马纽埃尔·马克龙/20413320 
+    http://en.wikipedia.org/wiki/Emmanuel_Macron
+Boris Johnson, 英国
+    https://baike.baidu.com/item/鲍里斯·约翰逊/5397688 
+    http://en.wikipedia.org/wiki/Boris_Johnson
+Theresa May, 英国
+    https://baike.baidu.com/item/特雷莎·梅/19783993 
+    http://en.wikipedia.org/wiki/Theresa_May 
+David Cameron, 英国
+    https://baike.baidu.com/item/戴维·卡梅伦/10225891 
+    http://en.wikipedia.org/wiki/David_Cameron
+Gordon Brown, 英国
+    https://baike.baidu.com/item/戈登·布朗/4149286 
+    http://en.wikipedia.org/wiki/Gordon_Brown
+Tony Blair, 英国
+    https://baike.baidu.com/item/安东尼·查尔斯·林顿·布莱尔/8475641 
+    http://en.wikipedia.org/wiki/Tony_Blair
+Margaret Thatcher, 英国
+    https://baike.baidu.com/item/玛格丽特·希尔达·撒切尔/2600274 
+    http://en.wikipedia.org/wiki/Margaret_Thatcher
+Elizabeth II, 英国
+    https://baike.baidu.com/item/伊丽莎白二世/869550 
+    http://en.wikipedia.org/wiki/Elizabeth_II
+Prince Charles, 英国
+    https://baike.baidu.com/item/查尔斯王子/1747969 
+    http://en.wikipedia.org/wiki/Charles,_Prince_of_Wales
+Princess Diana, 英国
+    https://baike.baidu.com/item/戴安娜王妃/570067 
+    http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
 Jacinda Ardern, 新西兰
     http://en.wikipedia.org/wiki/Jacinda_Ardern
     https://www.imdb.com/name/nm9013671
@@ -329,4 +347,77 @@ Xavier Bettel, 卢森堡
 Justin Trudeau, 加拿大
     http://en.wikipedia.org/wiki/Justin_Trudeau
     http://www.imdb.com/name/nm0874040
+    https://baike.baidu.com/item/贾斯廷·特鲁多/18731821 
+
+
+## 其他
+Ruhollah Khomeini, 伊朗
+    https://baike.baidu.com/item/阿亚图拉·鲁霍拉·穆斯塔法·艾哈迈德·穆萨维·霍梅尼/10321159 
+    http://en.wikipedia.org/wiki/Ruhollah_Khomeini
+Ali Khamenei, 伊朗
+    https://baike.baidu.com/item/阿亚图拉·赛义德·阿里·哈梅内伊/5064546 
+    http://en.wikipedia.org/wiki/Ali_Khamenei
+Hassan Rouhani, 伊朗
+    https://baike.baidu.com/item/哈桑·鲁哈尼/4802157 
+    http://en.wikipedia.org/wiki/Hassan_Rouhani
+Hamid Karzai, 阿富汗
+    https://baike.baidu.com/item/哈米德·卡尔扎伊/2569386 
+    http://en.wikipedia.org/wiki/Hamid_Karzai
+Ashraf Ghani, 阿富汗
+    https://baike.baidu.com/item/穆罕默德·阿什拉夫·加尼/20300097 
+    http://en.wikipedia.org/wiki/Ashraf_Ghani
+Hosni Mubarak|穆巴拉克, 曾任埃及总统
+    http://en.wikipedia.org/wiki/Hosni_Mubarak
+    https://baike.baidu.com/item/穆罕默德·胡斯尼·穆巴拉克/1711231 
+Saddam Hussein|萨达姆, 伊拉克
+    http://en.wikipedia.org/wiki/Saddam_Hussein
+    https://baike.baidu.com/item/萨达姆·侯赛因/623454 
+Muammar Gaddafi|卡扎菲, 利比亚
+    http://en.wikipedia.org/wiki/Muammar_Gaddafi
+    https://baike.baidu.com/item/奥马尔·穆阿迈尔·卡扎菲/3673442 
+Osama bin Laden|本·拉登
+    http://en.wikipedia.org/wiki/Osama_bin_Laden
+    https://baike.baidu.com/item/乌萨马·本·穆罕默德·本·阿瓦德·本·拉丹/20165851 
+Benjamin Netanyahu|内塔尼亚胡, 以色列
+    http://en.wikipedia.org/wiki/Benjamin_Netanyahu
+    https://baike.baidu.com/item/本雅明·内塔尼亚胡/3640612 
+Recep Tayyip Erdogan|埃尔多安, 土耳其
+    http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+    https://baike.baidu.com/item/雷杰普·塔伊普·埃尔多安/2867550 
+Alexander Lukashenko|卢卡申科, 白俄罗斯
+    http://en.wikipedia.org/wiki/Alexander_Lukashenko
+    https://baike.baidu.com/item/亚历山大·格里戈里耶维奇·卢卡申科/3653472 
+Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
+    http://en.wikipedia.org/wiki/Mikheil_Saakashvili
+    https://baike.baidu.com/item/米哈伊尔·萨卡什维利/1827431 
+Tedros Adhanom|谭德塞, 世卫组织总干事
+    http://en.wikipedia.org/wiki/Tedros_Adhanom
+    https://baike.baidu.com/item/谭德塞/22091696 
+Yasser Arafat|阿拉法特, 巴勒斯坦
+    http://en.wikipedia.org/wiki/Yasser_Arafat
+    https://baike.baidu.com/item/亚西尔·阿拉法特/3639958 
+Mahmoud Abbas|阿巴斯, 巴勒斯坦
+    http://en.wikipedia.org/wiki/Mahmoud_Abbas
+    https://baike.baidu.com/item/马哈茂德·阿巴斯/3638834 
+Bashar al-Assad|巴沙尔·阿萨德, 叙利亚
+    http://en.wikipedia.org/wiki/Bashar_al-Assad
+    https://baike.baidu.com/item/巴沙尔·阿萨德/2867946 
+Hafiz al-Assad|哈菲兹·阿萨德, 叙利亚
+    http://en.wikipedia.org/wiki/Hafez_al-Assad
+    https://baike.baidu.com/item/哈菲兹·阿萨德/4713288 
+Pervez Musharraf|穆沙拉夫, 巴基斯坦
+    http://en.wikipedia.org/wiki/Pervez_Musharraf
+    https://baike.baidu.com/item/佩尔韦兹·穆沙拉夫/2264418 
+Mahmoud Ahmadinejad|内贾德, 伊朗
+    http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
+    https://baike.baidu.com/item/马哈茂德·艾哈迈迪-内贾德/2186738 
+Ariel Sharon|阿里埃勒·沙龙, 以色列
+    https://baike.baidu.com/item/阿里埃勒·沙龙/113770 
+    http://en.wikipedia.org/wiki/Ariel_Sharon
+Yitzhak Rabin|拉宾, 以色列
+    https://baike.baidu.com/item/伊扎克·拉宾/2871220 
+    http://en.wikipedia.org/wiki/Yitzhak_Rabin
+Nelson Mandela|曼德拉, 南非
+    https://baike.baidu.com/item/纳尔逊·罗利赫拉赫拉·曼德拉/8769861 
+    http://en.wikipedia.org/wiki/Nelson_Mandela
 
