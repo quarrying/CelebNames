@@ -94,47 +94,53 @@ Khaltmaagiin Battulga, 蒙古
     http://en.wikipedia.org/wiki/Khaltmaagiin_Battulga
 
 
-## 苏联/俄罗斯
-Vladimir Putin|普京
+## 东欧
+Vladimir Putin|普京, 俄罗斯
     https://baike.baidu.com/item/弗拉基米尔·弗拉基米罗维奇·普京/1156718 
     http://en.wikipedia.org/wiki/Vladimir_Putin
-Dmitry Medvedev|梅德韦杰夫
+Dmitry Medvedev|梅德韦杰夫, 俄罗斯
     https://baike.baidu.com/item/德米特里·阿纳托利耶维奇·梅德韦杰夫/5358674 
     http://en.wikipedia.org/wiki/Dmitry_Medvedev
-Sergey Lavrov|拉夫罗夫
+Sergey Lavrov|拉夫罗夫, 俄罗斯
     https://baike.baidu.com/item/谢尔盖·拉夫罗夫 
     http://en.wikipedia.org/wiki/Sergey_Lavrov
-Boris Yeltsin|叶利钦
+Boris Yeltsin|叶利钦, 俄罗斯
     https://baike.baidu.com/item/鲍里斯·尼古拉耶维奇·叶利钦 
     http://en.wikipedia.org/wiki/Boris_Yeltsin
-Gennady Zyuganov|久加诺夫
+Gennady Zyuganov|久加诺夫, 苏联
     https://baike.baidu.com/item/根纳季·安德列耶维奇·久加诺夫/10840980 
     http://en.wikipedia.org/wiki/Gennady_Zyuganov
-Sergey Shoygu|绍伊古
+Sergey Shoygu|绍伊古, 俄罗斯
     https://baike.baidu.com/item/谢尔盖·库茹盖托维奇·绍伊古/5537557 
     http://en.wikipedia.org/wiki/Sergey_Shoygu
-Mikhail Gorbachev|戈尔巴乔夫
+Mikhail Gorbachev|戈尔巴乔夫, 苏联
     https://baike.baidu.com/item/米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫/3488813 
     http://en.wikipedia.org/wiki/Mikhail_Gorbachev
-
-
-## 乌克兰
-Viktor Yushchenko|尤先科
+Viktor Yushchenko|尤先科, 乌克兰
     https://baike.baidu.com/item/维克多·安德烈耶维奇·尤先科/7153002 
     http://en.wikipedia.org/wiki/Viktor_Yushchenko
-Viktor Yanukovych|亚努科维奇
+Viktor Yanukovych|亚努科维奇, 乌克兰
     https://baike.baidu.com/item/维克托·亚努科维奇/3578401 
     http://en.wikipedia.org/wiki/Viktor_Yanukovych
-Petro Poroshenko|波罗申科
+Petro Poroshenko|波罗申科, 乌克兰
     https://baike.baidu.com/item/彼得·阿列克谢耶维奇·波罗申科/23383650 
     http://en.wikipedia.org/wiki/Petro_Poroshenko
-Yulia Tymoshenko|季莫申科
+Yulia Tymoshenko|季莫申科, 乌克兰
     https://baike.baidu.com/item/尤利娅·季莫申科/1438659 
     http://en.wikipedia.org/wiki/Yulia_Tymoshenko
-Volodymyr Zelensky|泽连斯基
+Volodymyr Zelensky|泽连斯基, 乌克兰
     https://baike.baidu.com/item/弗拉基米尔·泽连斯基/23386821 
     http://en.wikipedia.org/wiki/Volodymyr_Zelensky
-
+Aleksandar Vučić|亚历山大·武契奇, 塞尔维亚
+    https://baike.baidu.com/item/亚历山大·武契奇/13845273 
+    http://en.wikipedia.org/wiki/Aleksandar_Vučić 
+Alexander Lukashenko|卢卡申科, 白俄罗斯
+    http://en.wikipedia.org/wiki/Alexander_Lukashenko
+    https://baike.baidu.com/item/亚历山大·格里戈里耶维奇·卢卡申科/3653472 
+Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
+    http://en.wikipedia.org/wiki/Mikheil_Saakashvili
+    https://baike.baidu.com/item/米哈伊尔·萨卡什维利/1827431 
+    
 
 ## 哈萨克斯坦
 Nursultan Nazarbayev|纳扎尔巴耶夫
@@ -173,6 +179,9 @@ Raúl Castro|劳尔·卡斯特罗, 古巴
 Fidel Castro|菲德尔·卡斯特罗, 古巴
     http://en.wikipedia.org/wiki/Fidel_Castro
     https://baike.baidu.com/item/菲德尔·卡斯特罗/2311713 
+Che Guevara|切·格瓦拉, 古巴
+    https://baike.baidu.com/item/切·格瓦拉/7390 
+    http://en.wikipedia.org/wiki/Che_Guevara
 Dilma Rousseff, 巴西
     https://baike.baidu.com/item/迪尔玛·罗塞夫/1921328 
     http://en.wikipedia.org/wiki/Dilma_Rousseff
@@ -294,6 +303,9 @@ Jim Mattis
     http://en.wikipedia.org/wiki/Jim_Mattis
 Patrick M. Shanahan
     http://en.wikipedia.org/wiki/Patrick_M._Shanahan
+Antony Blinken|布林肯
+    https://baike.baidu.com/item/安东尼·布林肯/16023784 
+    http://en.wikipedia.org/wiki/Tony_Blinken
 
 
 ## 西方
@@ -384,12 +396,6 @@ Benjamin Netanyahu|内塔尼亚胡, 以色列
 Recep Tayyip Erdogan|埃尔多安, 土耳其
     http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
     https://baike.baidu.com/item/雷杰普·塔伊普·埃尔多安/2867550 
-Alexander Lukashenko|卢卡申科, 白俄罗斯
-    http://en.wikipedia.org/wiki/Alexander_Lukashenko
-    https://baike.baidu.com/item/亚历山大·格里戈里耶维奇·卢卡申科/3653472 
-Mikheil Saakashvili|萨卡什维利, 格鲁吉亚
-    http://en.wikipedia.org/wiki/Mikheil_Saakashvili
-    https://baike.baidu.com/item/米哈伊尔·萨卡什维利/1827431 
 Tedros Adhanom|谭德塞, 世卫组织总干事
     http://en.wikipedia.org/wiki/Tedros_Adhanom
     https://baike.baidu.com/item/谭德塞/22091696 

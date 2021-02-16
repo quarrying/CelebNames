@@ -6,12 +6,21 @@ Anne Hathaway
     https://www.imdb.com/name/nm0004266/ 
 Brad Pitt
     https://www.imdb.com/name/nm0000093/
+Cristiano Ronaldo|罗纳尔多|C罗, 葡萄牙足球运动员
+    https://baike.baidu.com/item/克里斯蒂亚诺·罗纳尔多/4510104 
+    http://en.wikipedia.org/wiki/Cristiano_Ronaldo
+Diego Maradona|马拉多纳, 阿根廷足球运动员
+    https://baike.baidu.com/item/迭戈·马拉多纳/5156627 
+    http://en.wikipedia.org/wiki/Diego_Maradona
 Hans Zimmer
     https://www.imdb.com/name/nm0001877/
 Jim Carrey
     https://www.imdb.com/name/nm0000120/
 Leonardo DiCaprio
     https://www.imdb.com/name/nm0000138/
+Lionel Messi|梅西, 阿根廷足球运动员
+    https://baike.baidu.com/item/里奥·梅西/4443471 
+    http://en.wikipedia.org/wiki/Lionel_Messi
 Megan Fox
     https://www.imdb.com/name/nm1083271/
 Michael Jackson
@@ -29,4 +38,6 @@ Will Smith
 Victoria Justice
     http://en.wikipedia.org/wiki/Victoria_Justice
     https://www.imdb.com/name/nm1842439
-    
+Zinedine Zidane|齐达内, 法国足球运动员
+    https://baike.baidu.com/item/齐内丁·齐达内/3501310 
+    http://en.wikipedia.org/wiki/Zinedine_Zidane
