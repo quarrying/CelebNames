@@ -321,7 +321,7 @@
     https://baike.baidu.com/item/刘思涵/4052832 
 刘珂矣, "半壶纱"演唱者
     https://baike.baidu.com/item/刘珂矣/4473594 
-刘紫玲
+刘紫玲, 歌手
     https://baike.baidu.com/item/刘紫玲/7283916 
 刘谦, 魔术师
     https://baike.baidu.com/item/刘谦/5386 
@@ -329,7 +329,7 @@
     https://baike.baidu.com/item/刘子璇/22698563
 刘雨昕, "THE9"成员
     https://baike.baidu.com/item/刘雨昕/9348775  
-刘宇宁, 相声演员
+刘宇宁
     https://baike.baidu.com/item/刘宇宁/19972500 
 刘耀文
     https://baike.baidu.com/item/刘耀文/22107590 
@@ -343,6 +343,8 @@
     https://baike.baidu.com/item/刘浩存/23284525
 刘宝杰, "关键时刻"主持
     https://baike.baidu.com/item/刘宝杰/71109 
+刘玉璞, 84版"倚天屠龙记"中饰演"赵敏"
+    https://baike.baidu.com/item/刘玉璞/8196052 
 利晴天, "中国好男儿"
     https://baike.baidu.com/item/利晴天/4069159
 利智, "李连杰"妻子
