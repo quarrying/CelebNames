@@ -46,6 +46,8 @@
     https://baike.baidu.com/item/常铖/10869133 
 常昊, 围棋
     https://baike.baidu.com/item/常昊/897037 
+常香玉, 豫剧表演艺术家
+    https://baike.baidu.com/item/常香玉/421147 
 成奎安, 别名"大傻"
     https://baike.baidu.com/item/成奎安/516524
 成毅, "琉璃"中饰演"禹司凤"
@@ -56,7 +58,7 @@
     https://baike.baidu.com/item/成龙/71648 
 成果, "爱情公寓"中饰演"诸葛大力"
     https://baike.baidu.com/item/成果/22880435 
-成方圆
+成方圆, "游子吟 "演唱者
     https://baike.baidu.com/item/成方圆/445051 
 才旦卓玛, "北京的金山上"演唱者
     https://baike.baidu.com/item/才旦卓玛/442002 
@@ -204,6 +206,8 @@
     https://baike.baidu.com/item/程可为/9371095 
 程潇, "宇宙少女"成员
     https://baike.baidu.com/item/程潇/19428863 
+程琳, "小螺号"演唱者
+    https://baike.baidu.com/item/程琳/9900182 
 蔡一杰, "草蜢"成员
     https://baike.baidu.com/item/蔡一杰/513884  
 蔡一智, "草蜢"成员
@@ -376,7 +380,7 @@
     https://baike.baidu.com/item/陈志朋/702707
 陈思思, "纳西情歌"演唱者
     https://baike.baidu.com/item/陈思思/6718 
-陈思诚, 导演
+陈思诚|陈思成, 导演
     https://baike.baidu.com/item/陈思诚/7632851
 陈怡蓉, "薰衣草"中饰演女主角"梁以薰"
     https://baike.baidu.com/item/陈怡蓉/255716
@@ -556,6 +560,8 @@
     https://baike.baidu.com/item/陈大愚/2891926 
 陈木胜, 导演
     https://baike.baidu.com/item/陈木胜/4321147 
+陈星, "离家的孩子"演唱者
+    https://baike.baidu.com/item/陈星/22690 
 陈星旭, 杨旭文版"射雕英雄传"中饰演"杨康"
     https://baike.baidu.com/item/陈星旭/1540700 
 陈明真, "我用自己的方式爱你"演唱者
@@ -580,5 +586,9 @@
     https://baike.baidu.com/item/陈一冰/7862879 
 陈立农
     https://baike.baidu.com/item/陈立农/22348180
+陈少华, "九九女儿红"演唱者
+    https://baike.baidu.com/item/陈少华/40310 
+陈力, "枉凝眉"演唱者
+    https://baike.baidu.com/item/陈力/3663755 
 
     
