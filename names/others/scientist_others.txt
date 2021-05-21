@@ -58,4 +58,7 @@ Rob Pike, Go语言之父
     http://en.wikipedia.org/wiki/Rob_Pike
 Richard Feynman, 理论物理学家
     http://en.wikipedia.org/wiki/Richard_Feynman
+Jane Goodall, 动物学家
+    https://baike.baidu.com/item/珍妮·古道尔/6692064 
+    http://en.wikipedia.org/wiki/Jane_Goodall
     
