@@ -1,18 +1,20 @@
-#coding=utf-8
 import os
 import glob
 from collections import OrderedDict
 
 
-def parse_list_file(filename, prefix='', offset=0, max_num=0):
+def load_list(filename, encoding='utf-8', start=0, stop=None):
+    assert isinstance(start, int) and start >= 0
+    assert (stop is None) or (isinstance(stop, int) and stop > start)
+    
     lines = []
-    with open(filename, 'r', encoding='utf8') as f:
-        for _ in range(offset):
+    with open(filename, 'r', encoding=encoding) as f:
+        for _ in range(start):
             f.readline()
         for k, line in enumerate(f):
-            if max_num > 0 and k >= max_num:
+            if (stop is not None) and (k + start > stop):
                 break
-            lines.append(prefix + line.rstrip())
+            lines.append(line.rstrip('\n'))
     return lines
   
 
@@ -20,7 +22,7 @@ def get_all_records(filenames):
     records = []
     for _, filename in enumerate(filenames):
         if os.path.exists(filename):
-            records += parse_list_file(filename)
+            records += load_list(filename)
     return records
 
 

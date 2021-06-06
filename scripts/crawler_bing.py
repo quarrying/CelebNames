@@ -1,4 +1,3 @@
-#coding=utf-8
 import os
 import time
 import urllib
@@ -56,15 +55,18 @@ def download_images(keyword, last, dst_dir, first=1):
         current_first += COUNT_PER_PAGE
         
         
-def parse_list_file(filename, prefix='', offset=0, max_num=0):
+def load_list(filename, encoding='utf-8', start=0, stop=None):
+    assert isinstance(start, int) and start >= 0
+    assert (stop is None) or (isinstance(stop, int) and stop > start)
+    
     lines = []
-    with open(filename, 'r') as f:
-        for _ in range(offset):
+    with open(filename, 'r', encoding=encoding) as f:
+        for _ in range(start):
             f.readline()
         for k, line in enumerate(f):
-            if max_num > 0 and k >= max_num:
+            if (stop is not None) and (k + start > stop):
                 break
-            lines.append(prefix + line.rstrip())
+            lines.append(line.rstrip('\n'))
     return lines
 
     
@@ -73,7 +75,7 @@ if __name__ == '__main__':
     dst_dir = 'images'
     num_images = 200
 
-    keywords = parse_list_file(list_filename)
+    keywords = load_list(list_filename)
     keywords = [item.split(',')[0] for item in keywords]
     dst_dirs = [os.path.join(dst_dir, item) for item in keywords]
     for k, (keyword, dst_dir) in enumerate(zip(keywords, dst_dirs)):
