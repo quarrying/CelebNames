@@ -60,7 +60,8 @@ if __name__ == '__main__':
     src_dir = os.path.join(parent_dirname, 'names')
 
     tags_dict = OrderedDict()
-    tags_dict['chinese'] = ['businessman_chinese',  
+    tags_dict['chinese'] = ['astronaut_chinese',
+                            'businessman_chinese',  
                             'hot_chinese',
                             'liberal_arts_chinese',
                             'politican_chinese', 
@@ -82,7 +83,7 @@ if __name__ == '__main__':
             records = get_all_records(filenames)
             print('{:<30}: {}'.format(tag, get_record_number(records)))
             all_records += records
-        
+        print('-' * 40)
     print('{:<30}: {}'.format('total', get_record_number(all_records)))
     print('{:<30}: {}'.format('total with desc', get_record_number_with_desc(all_records)))
     
