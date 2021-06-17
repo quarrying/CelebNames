@@ -1,5 +1,5 @@
 # [CelebNames](https://github.com/quarrying/CelebNames)
-Celebrity Names for Crawler
+Curated Celebrity Names
 
 ## Celebrity Category
 - businessman
@@ -7,6 +7,5 @@ Celebrity Names for Crawler
 - politican
 - scientist
 - star: anchor, sportsman, musician, actor, director, singer
-- unclassified
-
+- others
 
