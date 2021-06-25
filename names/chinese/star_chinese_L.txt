@@ -51,7 +51,7 @@
     https://baike.baidu.com/item/刘佳佳/816 
 刘倩文
     https://baike.baidu.com/item/刘倩文/65060 
-刘兆铭
+刘兆铭, "倩女幽魂"中饰演"姥姥"
     https://baike.baidu.com/item/刘兆铭/1938043
 刘冠麟
     https://baike.baidu.com/item/刘冠麟/5731225 
@@ -431,6 +431,8 @@
     https://baike.baidu.com/item/吕方/6685 
 吕念祖, "万里长城永不倒"演唱者
     https://baike.baidu.com/item/吕念祖/886687 
+吕文科, "克拉玛依之歌"演唱者
+    https://baike.baidu.com/item/吕文科/4827148 
 娄烨, 导演
     https://baike.baidu.com/item/娄烨/6419308 
 娄艺潇, "爱情公寓"中饰演"唐一菲"
@@ -857,6 +859,8 @@
     https://baike.baidu.com/item/李嘉存/1770242 
 李春嫒
     https://baike.baidu.com/item/李春嫒 
+李天华, "七天七世纪"演唱者
+    https://baike.baidu.com/item/李天华/6852 
 林丹, 羽毛球运动员
     https://baike.baidu.com/item/林丹/2674 
 林书豪, 篮球运动员
@@ -1007,6 +1011,8 @@
     https://baike.baidu.com/item/林彦俊/22414884 
 林雪
     https://baike.baidu.com/item/林雪/18363 
+林佳仪, "一个人的我依然会微笑"演唱者
+    https://baike.baidu.com/item/林佳仪/2002437 
 柳云龙
     https://baike.baidu.com/item/柳云龙/1363254
 柳妍熙
@@ -1171,6 +1177,8 @@
     https://baike.baidu.com/item/罗玉凤/7647089 
 罗君左, "天龙八部"中饰演"包不同"
     https://baike.baidu.com/item/罗君左/3963628 
+罗天婵, "吐鲁番的葡萄熟了"演唱者
+    https://baike.baidu.com/item/罗天婵/5720586 
 老狼, "同桌的你"演唱者
     https://baike.baidu.com/item/老狼/185977 
 芦芳生, "九州·海上牧云记"中饰演"牧云勤"

@@ -145,6 +145,8 @@
     https://baike.baidu.com/item/周冰倩/806523 
 周璇, "天涯歌女"演唱者
     https://baike.baidu.com/item/周璇/37750 
+周子寒, "算不算可惜"演唱者
+    https://baike.baidu.com/item/周子寒/4259251 
 宗峰岩, "天涯明月刀"中饰演"燕南飞"
     https://baike.baidu.com/item/宗峰岩/4748542 
 宗平
@@ -403,7 +405,7 @@
     https://baike.baidu.com/item/张榕容/3482856
 张檬, "古剑奇谭"中饰演"方如沁"
     https://baike.baidu.com/item/张檬/847753
-张德兰
+张德兰, "春光美"演唱者
     https://baike.baidu.com/item/张德兰/10515449
 张欣奕
     https://baike.baidu.com/item/张欣奕/8169159 
@@ -513,7 +515,7 @@
     https://baike.baidu.com/item/张蓓蓓/19404 
 张蓝心
     https://baike.baidu.com/item/张蓝心/948086 
-张蔷
+张蔷, "夜猫"演唱者
     https://baike.baidu.com/item/张蔷/15789 
 张译, "鸡毛飞上天"中饰演"陈江河"
     https://baike.baidu.com/item/张译/4637596 
@@ -1049,6 +1051,8 @@
     https://baike.baidu.com/item/郑希怡/805307 
 郑云龙
     https://baike.baidu.com/item/郑云龙/23143708 
+郑丽_主持人, 新闻联播
+    https://baike.baidu.com/item/郑丽/2745055 
 钟丽燕
     https://baike.baidu.com/item/钟丽燕/770567 
 钟丽缇, "中南海保镖"中饰演"杨倩儿"
