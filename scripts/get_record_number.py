@@ -73,6 +73,7 @@ if __name__ == '__main__':
                                'scientist_east_asian',
                                'star_east_asian']
     tags_dict['others'] = ['businessman_others',  
+                           'liberal_arts_others',
                            'politican_others',
                            'scientist_others',
                            'star_others']
