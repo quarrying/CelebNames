@@ -32,6 +32,8 @@
     https://baike.baidu.com/item/张钹/4140426 
 张存浩, 物理化学家和激光化学家
     https://baike.baidu.com/item/张存浩/3556518 
+张永振, 病毒学家
+    https://baike.baidu.com/item/张永振/20827955 
 钟南山, 呼吸病学专家
     https://baike.baidu.com/item/钟南山/653914 
 庄小威, 生物物理学家
@@ -42,6 +44,8 @@
     https://baike.baidu.com/item/赵忠尧/25365 
 赵忠贤, 物理学家
     https://baike.baidu.com/item/赵忠贤/1041181 
+赵政国, 实验粒子物理学家
+    https://baike.baidu.com/item/赵政国/2913509 
 周光召, 理论物理学家
     https://baike.baidu.com/item/周光召/926178 
 周培源, 流体力学家
