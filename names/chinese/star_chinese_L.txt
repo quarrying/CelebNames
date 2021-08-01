@@ -437,6 +437,8 @@
     https://baike.baidu.com/item/吕文科/4827148 
 吕其明, 作曲家
     https://baike.baidu.com/item/吕其明/1876120 
+吕小军, 举重运动员
+    https://baike.baidu.com/item/吕小军/3293553 
 娄烨, 导演
     https://baike.baidu.com/item/娄烨/6419308 
 娄艺潇, "爱情公寓"中饰演"唐一菲"
@@ -845,7 +847,7 @@
     https://baike.baidu.com/item/李越昕蕾/17700208 
 李梦颖
     https://baike.baidu.com/item/李梦颖/15203241 
-李雪琴
+李雪琴, 脱口秀演员
     https://baike.baidu.com/item/李雪琴/23246744 
 李昕融, "你笑起来真好看"演唱者
     https://baike.baidu.com/item/李昕融/23198664 

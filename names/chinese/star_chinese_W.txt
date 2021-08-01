@@ -603,7 +603,7 @@
     https://baike.baidu.com/item/王诗槐/3609843 
 王诗龄, "李湘"之女
     https://baike.baidu.com/item/王诗龄/3072499 
-王贝
+王贝, 超女
     https://baike.baidu.com/item/王贝/9425544 
 王迅, "疯狂的石头"中饰演冯董秘书"四眼"
     https://baike.baidu.com/item/王迅/2794252
@@ -711,6 +711,8 @@
     https://baike.baidu.com/item/王楠/22732 
 王皓, 乒乓球运动员
     https://baike.baidu.com/item/王皓/9052 
+王曼昱, 乒乓球运动员
+    https://baike.baidu.com/item/王曼昱/13977625 
 翁倩玉
     https://baike.baidu.com/item/翁倩玉/800831
 翁家明
