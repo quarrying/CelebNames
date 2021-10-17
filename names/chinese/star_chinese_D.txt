@@ -1,4 +1,4 @@
-丁丁
+丁丁, "中国好声音"
     https://baike.baidu.com/item/丁丁/34552 
 丁佩
     https://baike.baidu.com/item/丁佩/30339 
@@ -68,6 +68,8 @@
     https://baike.baidu.com/item/大张伟/405253
 大壮, "我们不一样"演唱者
     https://baike.baidu.com/item/大壮/22836581 
+大兵_演员, 相声演员
+    https://baike.baidu.com/item/大兵/8021857 
 戴佩妮, "怎样"演唱者
     https://baike.baidu.com/item/戴佩妮/193271 
 戴佳佳
