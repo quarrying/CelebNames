@@ -34,6 +34,10 @@
     https://baike.baidu.com/item/王忠诚/18217 
 王文采, 植物学家
     https://baike.baidu.com/item/王文采/3825337 
+王阳元, 微纳电子科学家
+    https://baike.baidu.com/item/王阳元/3973494 
+王大中, 国家最高科学技术奖
+    https://baike.baidu.com/item/王大中/7274 
 武向平, 天文学家
     https://baike.baidu.com/item/武向平/50912 
 吴健雄, 物理学家
@@ -72,4 +76,3 @@
     https://baike.baidu.com/item/韦东奕/8581496 
 伍小平, 实验力学家
     https://baike.baidu.com/item/伍小平/37680 
-    
