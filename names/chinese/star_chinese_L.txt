@@ -875,8 +875,12 @@
     https://baike.baidu.com/item/李玲蔚/53035 
 李响, 主持人
     https://baike.baidu.com/item/李响/8072 
-李袁杰,"离人愁"演唱者
+李袁杰, "离人愁"演唱者
     https://baike.baidu.com/item/李袁杰/22544432 
+李霄鹏, 足球运动员
+    https://baike.baidu.com/item/李霄鹏/516600 
+李司棋, 黄日华版"射雕英雄传"中饰演"包惜弱"
+    https://baike.baidu.com/item/射雕英雄传/6487134 
 林丹, 羽毛球运动员
     https://baike.baidu.com/item/林丹/2674 
 林书豪, 篮球运动员
@@ -1237,6 +1241,8 @@
     https://baike.baidu.com/item/赖雅妍/2268399
 赖声川, 导演
     https://baike.baidu.com/item/赖声川/3841735 
+赖水清, 马景涛版"倚天屠龙记"导演
+    https://baike.baidu.com/item/赖水清/4298861 
 路宏
     https://baike.baidu.com/item/路宏/1520 
 路晨
