@@ -3,7 +3,7 @@ Curated Celebrity Names
 
 ## Celebrity Category
 - businessman
-- literal_arts
+- literal_arts: writer
 - politican
 - scientist
 - star: anchor, sportsman, musician, actor, director, singer
