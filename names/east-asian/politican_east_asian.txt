@@ -13,6 +13,8 @@
     https://baike.baidu.com/item/金泳三/4539368 
 朴正熙, 韩国总统
     https://baike.baidu.com/item/朴正熙/4395611 
+尹锡悦, 韩国总统
+    https://baike.baidu.com/item/尹锡悦/23575786 
 潘基文, 联合国秘书长
     https://baike.baidu.com/item/潘基文/5011047 
 康京和, 韩国外长
@@ -39,9 +41,9 @@
     https://baike.baidu.com/item/李雪主/10110048 
 玄松月, 朝鲜
     https://baike.baidu.com/item/玄松月/84991 
-黄炳誓
+黄炳誓, 朝鲜
     https://baike.baidu.com/item/黄炳誓/13385528 
-尹炳世
+尹炳世, 韩国外长
     https://baike.baidu.com/item/尹炳世/2764042 
 
 
