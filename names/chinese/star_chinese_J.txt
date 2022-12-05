@@ -24,7 +24,7 @@
     https://baike.baidu.com/item/姜寒/10936712 
 姜文, "太阳照常升起"中饰演"唐雨林"
     https://baike.baidu.com/item/姜文/1168186
-姜昆, 相声
+姜昆, 相声演员
     https://baike.baidu.com/item/姜昆/54240 
 姜昕
     https://baike.baidu.com/item/姜昕/35578 
@@ -222,9 +222,9 @@
     https://baike.baidu.com/item/贾景晖/4245894 
 贾樟柯, 导演
     https://baike.baidu.com/item/贾樟柯/282083 
-贾玲, 相声
+贾玲, 相声演员
     https://baike.baidu.com/item/贾玲/55854
-贾冰, 小品
+贾冰, 小品演员
     https://baike.baidu.com/item/贾冰/20622267 
 贾盛强
     https://baike.baidu.com/item/贾盛强/7084768 
@@ -298,4 +298,6 @@
     https://baike.baidu.com/item/晋松/4998 
 叫兽易小星|易振兴, "万万没想到"导演
     https://baike.baidu.com/item/叫兽易小星/10910545 
+剧雪, 演员
+    https://baike.baidu.com/item/剧雪/3621588 
     

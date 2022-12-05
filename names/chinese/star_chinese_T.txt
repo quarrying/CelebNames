@@ -28,7 +28,7 @@
     https://baike.baidu.com/item/唐安琪/13476397 
 唐文龙
     https://baike.baidu.com/item/唐文龙/10177131 
-唐杰忠, 相声
+唐杰忠, 相声演员
     https://baike.baidu.com/item/唐杰忠/10982608 
 唐磊, "丁香花"演唱者
     https://baike.baidu.com/item/唐磊/3690766 
@@ -122,7 +122,7 @@
     https://baike.baidu.com/item/田海蓉/968972  
 田蕊妮
     https://baike.baidu.com/item/田蕊妮/3538104
-田连元, 评书
+田连元, 评书表演艺术家
     https://baike.baidu.com/item/田连元/625830 
 田雨, "庆余年"中饰演"王启年"
     https://baike.baidu.com/item/田雨/17588 
@@ -188,6 +188,8 @@
     https://baike.baidu.com/item/谭炳文/4854764 
 谭元元, 舞蹈
     https://baike.baidu.com/item/谭元元/3107817 
+谭乔, 主持人
+    https://baike.baidu.com/item/谭乔/9086171 
 邰丽华, 舞蹈家
     https://baike.baidu.com/item/邰丽华/848920 
 邰正宵, "九百九十九朵玫瑰"演唱者

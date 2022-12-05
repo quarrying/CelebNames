@@ -104,7 +104,7 @@
     https://baike.baidu.com/item/侯天来/8436414 
 侯孝贤, 导演
     https://baike.baidu.com/item/侯孝贤/577631 
-侯宝林, 相声
+侯宝林, 相声演员
     https://baike.baidu.com/item/侯宝林/212980 
 侯明昊
     https://baike.baidu.com/item/侯明昊/8344476
@@ -116,7 +116,7 @@
     https://baike.baidu.com/item/侯梦蝶/9064801 
 侯耀华, "侯宝林"之子
     https://baike.baidu.com/item/侯耀华/5212146 
-侯耀文, 相声
+侯耀文, 相声演员
     https://baike.baidu.com/item/侯耀文/8210921
 侯长荣, "红楼梦"中饰演"北静王"
     https://baike.baidu.com/item/侯长荣/691852 
@@ -482,6 +482,8 @@
     https://baike.baidu.com/item/黄忆慈/2165729 
 黄建新, 导演
     https://baike.baidu.com/item/黄建新/21284 
+黄蜀芹, 导演
+    https://baike.baidu.com/item/黄蜀芹/4878375 
 花僮, "浪子闲话"演唱者
     https://baike.baidu.com/item/花僮/12021725 
 花粥,"出山"演唱者

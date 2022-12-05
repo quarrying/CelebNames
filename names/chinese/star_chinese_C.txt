@@ -28,7 +28,7 @@
     https://baike.baidu.com/item/崔伟立/19976577 
 常乐
     https://baike.baidu.com/item/常乐/1210286 
-常宝华, 相声
+常宝华, 相声演员
     https://baike.baidu.com/item/常宝华/3055845 
 常思思
     https://baike.baidu.com/item/常思思/966199 
@@ -40,7 +40,7 @@
     https://baike.baidu.com/item/常石磊/482076
 常远, "夏洛特烦恼"中饰演"孟特"
     https://baike.baidu.com/item/常远/5646786 
-常贵田, 相声
+常贵田, 相声演员
     https://baike.baidu.com/item/常贵田/2321257 
 常铖, "东游记"中饰演"费长房"
     https://baike.baidu.com/item/常铖/10869133 
@@ -64,7 +64,7 @@
     https://baike.baidu.com/item/才旦卓玛/442002 
 晨梓妍
     https://baike.baidu.com/item/晨梓妍/9052356 
-曹云金, 相声
+曹云金, 相声演员
     https://baike.baidu.com/item/曹云金/5344765
 曹卫宇, "九州·海上牧云记"中饰演"穆如槊"
     https://baike.baidu.com/item/曹卫宇/7344080 
@@ -150,6 +150,8 @@
     https://baike.baidu.com/item/曾江/14407 
 曾恺玹, "不能说的秘密"中饰演"晴依"
     https://baike.baidu.com/item/曾恺玹/5648223 
+曾美慧孜, 金像奖最佳女主角奖
+    https://baike.baidu.com/item/曾美慧孜/10122214 
 曾子墨, 主持人
     https://baike.baidu.com/item/曾子墨/1781614 
 曾伟权
@@ -360,7 +362,7 @@
     https://baike.baidu.com/item/陈宝莲/515987 
 陈宥维, "延禧攻略"中饰演"五阿哥"
     https://baike.baidu.com/item/陈宥维/20831068
-陈寒柏, 相声
+陈寒柏, 相声演员
     https://baike.baidu.com/item/陈寒柏/5309169 
 陈小春, 陈小春版"鹿鼎记"中饰演"韦小宝"
     https://baike.baidu.com/item/陈小春/7001 
