@@ -881,7 +881,7 @@
     https://baike.baidu.com/item/李袁杰/22544432 
 李霄鹏, 足球运动员
     https://baike.baidu.com/item/李霄鹏/516600 
-李铁, 足球运动员
+李铁_运动员, 足球运动员
     https://baike.baidu.com/item/李铁/19611 
 李司棋, 黄日华版"射雕英雄传"中饰演"包惜弱"
     https://baike.baidu.com/item/射雕英雄传/6487134 
@@ -927,6 +927,7 @@
     https://baike.baidu.com/item/林子祥/3406389
 林子聪, "隋唐英雄传"中饰演"程咬金"
     https://baike.baidu.com/item/林子聪/1644995
+    https://movie.douban.com/celebrity/1314402/
 林子闳
     https://baike.baidu.com/item/林子闳/84245 
 林宥嘉, "说谎"演唱者
