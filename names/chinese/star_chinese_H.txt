@@ -292,8 +292,10 @@
     https://baike.baidu.com/item/韩庚/5909
 韩承羽
     https://baike.baidu.com/item/韩承羽/9419549 
-韩晓
+韩晓_演员
     https://baike.baidu.com/item/韩晓/7451 
+韩晓_歌手, "大头皮鞋"演唱者
+    https://baike.baidu.com/item/韩晓/1078432 
 韩栋, "步步惊心"中饰演"九阿哥"
     https://baike.baidu.com/item/韩栋/9998270
 韩熙庭
@@ -330,6 +332,8 @@
     https://baike.baidu.com/item/韩影/4298413 
 韩乔生, 体育播音员和解说员
     https://baike.baidu.com/item/韩乔生/1256044 
+韩朴俊|含笑, "飞天"演唱者
+    https://baike.baidu.com/item/韩朴俊/19844430 
 鸿利
     https://baike.baidu.com/item/鸿利/11025020 
 黄一琳
