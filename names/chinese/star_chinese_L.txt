@@ -887,6 +887,8 @@
     https://baike.baidu.com/item/李司棋/5080659
 李海鹰, "我不想说"作曲
     https://baike.baidu.com/item/李海鹰/2986
+李兆基, 参演"喜剧之王"
+    https://baike.baidu.com/item/李兆基/9775315
 林丹, 羽毛球运动员
     https://baike.baidu.com/item/林丹/2674 
 林书豪, 篮球运动员
@@ -1116,7 +1118,7 @@
     https://baike.baidu.com/item/梁荣忠/415086
 梁靖琪
     https://baike.baidu.com/item/梁靖琪/5777700
-梁静
+梁静_演员, 演员
     https://baike.baidu.com/item/梁静/10544
 梁静茹, "暖暖"演唱者
     https://baike.baidu.com/item/梁静茹/199110 

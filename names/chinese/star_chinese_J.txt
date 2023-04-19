@@ -74,7 +74,7 @@
     https://baike.baidu.com/item/敬一丹/1154553 
 景岗山, "我的眼里只有你"演唱者
     https://baike.baidu.com/item/景岗山/7807620 
-景甜
+景甜, "司藤"中饰演"司藤"
     https://baike.baidu.com/item/景甜/844141
 江一燕
     https://baike.baidu.com/item/江一燕/10870219
@@ -86,7 +86,7 @@
     https://baike.baidu.com/item/江国宾/8062589 
 江宏恩
     https://baike.baidu.com/item/江宏恩/2914251 
-江希文
+江希文, 演员
     https://baike.baidu.com/item/江希文/2262744
 江映蓉
     https://baike.baidu.com/item/江映蓉/9775016 
@@ -124,6 +124,8 @@
     https://baike.baidu.com/item/江奇霖/10770185 
 江涛_歌手, "愚公移山"演唱者
     https://baike.baidu.com/item/江涛/21482 
+江明_演员, "新白娘子传奇"中饰演"李公甫"
+    https://baike.baidu.com/item/江明/9546162
 涓子|王慧娟, "上错花轿嫁对郎"中饰演"昌平公主"
     https://baike.baidu.com/item/涓子/10842215 
 焦俊艳, "法医秦明"中饰演"大宝"

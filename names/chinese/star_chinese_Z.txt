@@ -120,7 +120,7 @@
     https://baike.baidu.com/item/周迅/10076 
 周采诗
     https://baike.baidu.com/item/周采诗/9425752
-周雨彤
+周雨彤, 演员
     https://baike.baidu.com/item/周雨彤/16807699
 周韦彤
     https://baike.baidu.com/item/周韦彤/1921575
@@ -759,6 +759,8 @@
     https://baike.baidu.com/item/朱正廷/22348656 
 朱晓琳, "妈妈的吻"演唱者
     https://baike.baidu.com/item/朱晓琳/6730 
+朱铭捷, "曾经最美"演唱者
+    https://baike.baidu.com/item/朱铭捷/3889025 
 甄子丹, 功夫巨星
     https://baike.baidu.com/item/甄子丹/174220
 甄珍
@@ -951,6 +953,8 @@
     https://baike.baidu.com/item/赵英俊/1036473 
 赵节, "我的最爱"演唱者
     https://baike.baidu.com/item/赵节/3515805 
+赵恒煊, "白眉大侠"中饰演"徐良"
+    https://baike.baidu.com/item/赵恒煊/11044438
 邹兆龙, "九品芝麻官"中饰演"常威"
     https://baike.baidu.com/item/邹兆龙/4166623
 邹娜

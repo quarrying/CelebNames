@@ -164,8 +164,10 @@
     https://baike.baidu.com/item/徐向东/42104 
 徐歌阳, "中国新歌声"
     https://baike.baidu.com/item/徐歌阳/19862831 
-徐敏, "大明王朝1566"中饰演"赵贞吉"
+徐敏_演员, "大明王朝1566"中饰演"赵贞吉"
     https://baike.baidu.com/item/徐敏/5834377 
+徐嘉良, 作曲
+    https://baike.baidu.com/item/徐嘉良/5834377
 熊乃瑾
     https://baike.baidu.com/item/熊乃瑾/3511379
 熊天平, "火柴天堂"演唱者
@@ -414,7 +416,7 @@
     https://baike.baidu.com/item/邢星/31162 
 邢质斌, 新闻联播
     https://baike.baidu.com/item/邢质斌/1255451 
-邢岷山
+邢岷山, "白眉大侠"中饰演"白云瑞"
     https://baike.baidu.com/item/邢岷山/3621531 
 邢昭林, "楚乔传"中饰演"月七"
     https://baike.baidu.com/item/邢昭林/7883958
