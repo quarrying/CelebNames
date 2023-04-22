@@ -659,6 +659,10 @@
     https://baike.baidu.com/item/张雨霏/12589518 
 张晚意, "乔家的儿女"中饰演"二强"
     https://baike.baidu.com/item/张晚意/4679314 
+张南雁, 港版"武则天"电视剧主题曲"武则天"演唱者
+    https://baike.baidu.com/item/张南雁/1788817 
+张暴默, "鼓浪屿之波"演唱者
+    https://baike.baidu.com/item/张暴默/933359
 战立国
     https://baike.baidu.com/item/战立国/7072546 
 战菁一, "甄嬛传"中饰演"流朱"
@@ -681,11 +685,11 @@
     https://baike.baidu.com/item/朱亚英/19034 
 朱元冰
     https://baike.baidu.com/item/朱元冰/8336105 
-朱军, 主持人
+朱军_主持人, 主持人
     https://baike.baidu.com/item/朱军/16473 
 朱刚日尧
     https://baike.baidu.com/item/朱刚日尧/8485357 
-朱哲琴
+朱哲琴, "一个真实的故事"演唱者
     https://baike.baidu.com/item/朱哲琴/1344343 
 朱圣祎
     https://baike.baidu.com/item/朱圣祎/15953919 
@@ -763,7 +767,7 @@
     https://baike.baidu.com/item/朱铭捷/3889025 
 甄子丹, 功夫巨星
     https://baike.baidu.com/item/甄子丹/174220
-甄珍
+甄珍, 演员
     https://baike.baidu.com/item/甄珍/1158870 
 甄锡
     https://baike.baidu.com/item/甄锡/1387139 
