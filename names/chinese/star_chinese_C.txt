@@ -122,9 +122,9 @@
     https://baike.baidu.com/item/曾敏/4886375 
 曾春年
     https://baike.baidu.com/item/曾春年/6713 
-曾格格_演员
+曾格格_演员, 演员
     https://baike.baidu.com/item/曾格格/22838973 
-曾格格_歌手
+曾格格_歌手, 歌手
     https://baike.baidu.com/item/曾格格/11001085 
 曾梦雪
     https://baike.baidu.com/item/曾梦雪/8295065 
@@ -484,7 +484,7 @@
     https://baike.baidu.com/item/陈美行/12055 
 陈羽凡, "羽泉"成员
     https://baike.baidu.com/item/陈羽凡/147741 
-陈翔
+陈翔_演员, 演员
     https://baike.baidu.com/item/陈翔/5832 
 陈若仪, "林志颖"妻子
     https://baike.baidu.com/item/陈若仪/9814611
@@ -610,7 +610,7 @@
     https://baike.baidu.com/item/陈飞宇/2095358 
 陈孝萱, 马景涛版"倚天屠龙记"中饰演"小昭"
     https://baike.baidu.com/item/陈孝萱/220315 
-陈彼得
+陈彼得, 音乐人
     https://baike.baidu.com/item/陈彼得/3229783
 陈建宁, "飞儿乐团"成员
     https://baike.baidu.com/item/陈建宁/844099
