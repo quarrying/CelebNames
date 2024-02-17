@@ -6,23 +6,23 @@
     https://baike.baidu.com/item/王冰冰/53823440 
 张桂梅, 时代楷模
     https://baike.baidu.com/item/张桂梅/1152853 
-吴尊友
+吴尊友, 新冠
     https://baike.baidu.com/item/吴尊友/8416045 
-李文亮
+李文亮, 新冠
     https://baike.baidu.com/item/李文亮/24300481 
 李永乐
     https://baike.baidu.com/item/李永乐/1302180 
-张文宏
+张文宏, 新冠
     https://baike.baidu.com/item/张文宏/6431153 
-张定宇
+张定宇, 新冠
     https://baike.baidu.com/item/张定宇/24286859 
 贺建奎, 基因编辑婴儿
     https://baike.baidu.com/item/贺建奎/2971172 
 韩春雨, 基因编辑
     https://baike.baidu.com/item/韩春雨/19666385 
-劳荣枝
+劳荣枝, 罪犯
     https://baike.baidu.com/item/劳荣枝/24172128 
-吴谢宇
+吴谢宇, 罪犯
     https://baike.baidu.com/item/吴谢宇/19431403 
 杨笠, 脱口秀演员
     https://baike.baidu.com/item/杨笠/53321966 
@@ -32,4 +32,6 @@
     https://baike.baidu.com/item/林生斌/21500576 
 董宇辉, 主播
     https://baike.baidu.com/item/董宇辉/61404350 
-    
+孟羽童, 格力
+    https://baike.baidu.com/item/孟羽童/56727439
+
